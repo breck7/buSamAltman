@@ -1,5 +1,5 @@
 title buSamAltman — Archive
-description A 3rd backup of Sam Altman’s blog for personal training.
+description this 3rd party backup made by @breckyunits
 permalink index.html
 canonicalUrl https://blog.samaltman.com/
 buildHtml
@@ -9,9 +9,6 @@ container 1120px
  id main
  role main
  addClass archive
-
-A 3rd backup of Sam Altman’s blog for personal training.
- addClass archive-intro
 
 # All posts
  id archive-heading
