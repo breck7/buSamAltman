@@ -34,3 +34,4 @@ Download term_sheet.pdf
 HTML | TXT
  link a-founder-friendly-term-sheet.html HTML
  link a-founder-friendly-term-sheet.txt TXT
+View source

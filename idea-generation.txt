@@ -44,3 +44,4 @@ I wrote it when I thought mostly about startups; now I think mostly about AI dev
 HTML | TXT
  link idea-generation.html HTML
  link idea-generation.txt TXT
+View source

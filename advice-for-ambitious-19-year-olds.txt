@@ -46,3 +46,4 @@ Thanks to Lachy Groom and Nick Sivo for reading drafts of this.
 HTML | TXT
  link advice-for-ambitious-19-year-olds.html HTML
  link advice-for-ambitious-19-year-olds.txt TXT
+View source

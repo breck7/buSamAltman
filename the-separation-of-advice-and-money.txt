@@ -30,3 +30,4 @@ The mediocre and bad VCs will have to adapt or die.
 HTML | TXT
  link the-separation-of-advice-and-money.html HTML
  link the-separation-of-advice-and-money.txt TXT
+View source

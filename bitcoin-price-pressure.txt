@@ -44,3 +44,4 @@ But it’s hard to imagine a future where the blockchain concept isn’t really 
 HTML | TXT
  link bitcoin-price-pressure.html HTML
  link bitcoin-price-pressure.txt TXT
+View source

@@ -146,3 +146,4 @@ Second person in the same conversation: “I don’t care if he’s corrupt. Y�
 HTML | TXT
  link what-i-heard-from-trump-supporters.html HTML
  link what-i-heard-from-trump-supporters.txt TXT
+View source

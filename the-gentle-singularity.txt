@@ -64,3 +64,4 @@ May we scale smoothly, exponentially and uneventfully through superintelligence.
 HTML | TXT
  link the-gentle-singularity.html HTML
  link the-gentle-singularity.txt TXT
+View source

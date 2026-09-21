@@ -20,3 +20,4 @@ Startups often ask me how to grow faster. I usually say “build a great product
 HTML | TXT
  link premature-optimization.html HTML
  link premature-optimization.txt TXT
+View source

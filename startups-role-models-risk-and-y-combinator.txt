@@ -59,3 +59,4 @@ Y Combinator Applicant Advice by Zain Shah
 HTML | TXT
  link startups-role-models-risk-and-y-combinator.html HTML
  link startups-role-models-risk-and-y-combinator.txt TXT
+View source

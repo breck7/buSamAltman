@@ -26,3 +26,4 @@ Finally, huge thanks to the team that poured so much work into making this happe
 HTML | TXT
  link gpt-4o.html HTML
  link gpt-4o.txt TXT
+View source

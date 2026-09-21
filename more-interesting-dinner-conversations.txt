@@ -14,3 +14,4 @@ When seated at a table with people you don't know, ask "what are you interested 
 HTML | TXT
  link more-interesting-dinner-conversations.html HTML
  link more-interesting-dinner-conversations.txt TXT
+View source

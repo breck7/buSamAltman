@@ -34,3 +34,4 @@ Thanks to Luke Miles for reviewing drafts of this.
 HTML | TXT
  link hard-startups.html HTML
  link hard-startups.txt TXT
+View source

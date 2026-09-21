@@ -20,3 +20,4 @@ People love gossip until it's about themselves. My prediction for Secret is that
 HTML | TXT
  link anonymity.html HTML
  link anonymity.txt TXT
+View source

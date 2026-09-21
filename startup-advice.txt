@@ -202,3 +202,4 @@ p 95. The best startups are defined by exceptions; all of these rules are probab
 HTML | TXT
  link startup-advice.html HTML
  link startup-advice.txt TXT
+View source

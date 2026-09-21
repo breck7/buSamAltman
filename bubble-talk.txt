@@ -37,3 +37,4 @@ This bet is open to the first VC who would like to take it (though it is not cle
 HTML | TXT
  link bubble-talk.html HTML
  link bubble-talk.txt TXT
+View source

@@ -24,3 +24,7 @@
 .article-header,.prose{width:calc(100% - 44px)!important}.prose{padding-bottom:45px}.article-header .printDateParser{font:11px var(--sans);color:var(--muted)}
 
 .archive.scrollContainerParser{width:calc(100% - 112px)!important}.archive>h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px}.archive>.search{margin:0 0 25px auto}@media(max-width:760px){.archive.scrollContainerParser{width:calc(100% - 44px)!important}}
+
+.abstractTextLinkParser{text-align:center;font-size:12px;margin:20px auto;color:var(--muted)}.abstractTextLinkParser a{text-decoration:underline}
+
+.site-header .site-description{margin-top:7px;font:12px/1.5 var(--sans);color:var(--muted)}.site-description a{text-decoration:underline;text-underline-offset:2px}

@@ -28,3 +28,4 @@ If you're a solo founder and you can't hack, learn.
 HTML | TXT
  link non-technical-founder-learn-to-hack.html HTML
  link non-technical-founder-learn-to-hack.txt TXT
+View source

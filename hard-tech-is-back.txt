@@ -27,3 +27,4 @@ We hope to hear from you.
 HTML | TXT
  link hard-tech-is-back.html HTML
  link hard-tech-is-back.txt TXT
+View source

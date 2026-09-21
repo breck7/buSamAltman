@@ -36,3 +36,4 @@ The good news is it’s doable with deliberate effort. If every founder (YC and 
 HTML | TXT
  link the-post-yc-slump.html HTML
  link the-post-yc-slump.txt TXT
+View source

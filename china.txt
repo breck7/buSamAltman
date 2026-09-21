@@ -46,3 +46,4 @@ The other stark contrast is how much harder people in China seem to work than pe
 HTML | TXT
  link china.html HTML
  link china.txt TXT
+View source

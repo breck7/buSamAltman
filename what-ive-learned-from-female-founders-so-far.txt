@@ -44,3 +44,4 @@ There's lots of work still to do, but we're on it. I hope other investors will j
 HTML | TXT
  link what-ive-learned-from-female-founders-so-far.html HTML
  link what-ive-learned-from-female-founders-so-far.txt TXT
+View source

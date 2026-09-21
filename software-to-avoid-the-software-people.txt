@@ -16,3 +16,4 @@ It will be interesting to see how far this trend goes, and something to keep in 
 HTML | TXT
  link software-to-avoid-the-software-people.html HTML
  link software-to-avoid-the-software-people.txt TXT
+View source

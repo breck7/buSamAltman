@@ -1,5 +1,6 @@
 importOnly
 blog.parsers
+editBaseUrl https://github.com/breck7/busamaltman/blob/main/
 inlineMarkups
  *
  _
@@ -19,6 +20,9 @@ header
   buSamAltman
    index.html
    addClass wordmark
+  this 3rd party backup made by @breckyunits
+   https://twitter.com/breckyunits @breckyunits
+   addClass site-description
  nav
   aria-label Main navigation
   Search

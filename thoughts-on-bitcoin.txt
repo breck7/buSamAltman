@@ -42,3 +42,4 @@ Thanks to Patrick Collison and Lachy Groom for reading drafts of this.
 HTML | TXT
  link thoughts-on-bitcoin.html HTML
  link thoughts-on-bitcoin.txt TXT
+View source

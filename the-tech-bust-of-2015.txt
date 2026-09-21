@@ -44,3 +44,4 @@ Thanks to Jack Altman, Patrick Collison, Paul Graham, Aaron Levie, Geoff Ralston
 HTML | TXT
  link the-tech-bust-of-2015.html HTML
  link the-tech-bust-of-2015.txt TXT
+View source

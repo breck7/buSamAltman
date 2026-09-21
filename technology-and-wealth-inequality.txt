@@ -95,3 +95,4 @@ Follow me on Twitter here: http://twitter.com/sama
 HTML | TXT
  link technology-and-wealth-inequality.html HTML
  link technology-and-wealth-inequality.txt TXT
+View source

@@ -87,3 +87,4 @@ As a side note to the side note, I don’t blame finance for stealing our good e
 HTML | TXT
  link what-happened-to-innovation-1.html HTML
  link what-happened-to-innovation-1.txt TXT
+View source

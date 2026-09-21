@@ -32,3 +32,4 @@ And maybe we don't want to build machines that are concious in this sense. The m
 HTML | TXT
  link ai.html HTML
  link ai.txt TXT
+View source

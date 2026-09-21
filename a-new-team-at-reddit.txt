@@ -26,3 +26,4 @@ Although my 8 days as the CEO of reddit have been sort of fun, I am happy they a
 HTML | TXT
  link a-new-team-at-reddit.html HTML
  link a-new-team-at-reddit.txt TXT
+View source

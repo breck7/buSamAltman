@@ -89,3 +89,8 @@ originalLinkParser
    const url = this.root.get("canonicalUrl") || ""
    return url.startsWith("https://blog.samaltman.com/") ? url : "https://blog.samaltman.com/"
   }
+
+viewSourceParser
+ extends editLinkParser
+ cue viewSource
+ string text View source

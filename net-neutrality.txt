@@ -32,3 +32,4 @@ As long as consumers don’t have freedom of choice, last-mile traffic discrimin
 HTML | TXT
  link net-neutrality.html HTML
  link net-neutrality.txt TXT
+View source

@@ -14,3 +14,4 @@ Man has a large capacity for effort. In fact it is so much greater than we think
 HTML | TXT
  link rickover.html HTML
  link rickover.txt TXT
+View source

@@ -46,3 +46,4 @@ However, ignoring quality of life relative to other people alive today feels lik
 HTML | TXT
  link the-software-revolution.html HTML
  link the-software-revolution.txt TXT
+View source

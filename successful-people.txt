@@ -16,3 +16,4 @@ In general, the big companies don't come from pivots, and I think this is most o
 HTML | TXT
  link successful-people.html HTML
  link successful-people.txt TXT
+View source

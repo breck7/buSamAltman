@@ -16,3 +16,4 @@ Jakub is our chief scientist. He once described Szymon as “indefatigable”, w
 HTML | TXT
  link jakub-and-szymon.html HTML
  link jakub-and-szymon.txt TXT
+View source

@@ -26,3 +26,4 @@ All of these were ideas that seemed bad but turned out to be good, and this is t
 HTML | TXT
  link projects-and-companies.html HTML
  link projects-and-companies.txt TXT
+View source

@@ -156,3 +156,4 @@ Thanks to Patrick Collison, Andrew Mason, Keith Rabois, Geoff Ralston, and Nick 
 HTML | TXT
  link how-to-hire.html HTML
  link how-to-hire.txt TXT
+View source

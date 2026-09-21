@@ -92,3 +92,4 @@ Thanks to Jack Altman, Max Altman, and Luke Miles for reviewing drafts of this.
 HTML | TXT
  link how-to-invest-in-startups.html HTML
  link how-to-invest-in-startups.txt TXT
+View source

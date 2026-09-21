@@ -38,3 +38,4 @@ Of course, people are terrible at predicting bubbles and busts, so I’m likely 
 HTML | TXT
  link what-to-do-if-a-bubble-is-starting.html HTML
  link what-to-do-if-a-bubble-is-starting.txt TXT
+View source

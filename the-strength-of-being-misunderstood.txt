@@ -22,3 +22,4 @@ You should trade being short-term low-status for being long-term high-status, wh
 HTML | TXT
  link the-strength-of-being-misunderstood.html HTML
  link the-strength-of-being-misunderstood.txt TXT
+View source

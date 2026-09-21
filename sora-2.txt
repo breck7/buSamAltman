@@ -32,3 +32,4 @@ In addition to the mitigations we have already put in place (which include thing
 HTML | TXT
  link sora-2.html HTML
  link sora-2.txt TXT
+View source

@@ -50,3 +50,4 @@ Many people seem to believe that SMI would be very dangerous if it were develope
 HTML | TXT
  link machine-intelligence-part-1.html HTML
  link machine-intelligence-part-1.txt TXT
+View source

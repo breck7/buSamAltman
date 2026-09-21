@@ -40,3 +40,4 @@ The point I most wanted to make is that is that it’s dangerous to just ban dis
 HTML | TXT
  link a-clarification.html HTML
  link a-clarification.txt TXT
+View source

@@ -20,3 +20,4 @@ Although investors should be doing more diligence than is currently in fashion, 
 HTML | TXT
  link financial-misstatements.html HTML
  link financial-misstatements.txt TXT
+View source

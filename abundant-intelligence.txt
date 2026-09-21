@@ -22,3 +22,4 @@ Over the next couple of months, we’ll be talking about some of our plans and t
 HTML | TXT
  link abundant-intelligence.html HTML
  link abundant-intelligence.txt TXT
+View source

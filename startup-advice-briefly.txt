@@ -78,3 +78,4 @@ Keep doing this for 10 years.
 HTML | TXT
  link startup-advice-briefly.html HTML
  link startup-advice-briefly.txt TXT
+View source
