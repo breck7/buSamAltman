@@ -1,14 +1,14 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 December 16, 2017
 A Clarification
 ===============
 
 I made a point in this post inelegantly in a way that was easy to misunderstand, so I’d like to clarify it.
- /e-pur-si-muove.html post
+ https://busamaltman.breck.lol/e-pur-si-muove.html post
 
 I didn’t mean that we need to tolerate brilliant homophobic jerks in the lab so that we can have scientific progress. Although there are famous counterexamples, most of the best scientists I’ve met are unusually nice, open-minded people. Generally I expect that labs that don’t tolerate jerks will produce more impressive results than the ones that do, and choosing not to employ jerks is a good idea—jerks usually reduce the net output of organizations.
 

@@ -1,8 +1,8 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 February 20, 2015
 Startup advice, briefly
 =======================
@@ -45,7 +45,7 @@ Ignore what the press says about you, especially if it’s complimentary.
 Generate revenue early in the life of your company.
 
 Hire the best people you can. However much time you’re spending on this, it’s probably not enough. Give a lot of equity to your employees, and have very high expectations. Smart, effective people are critical to success. Read this: http://blog.samaltman.com/how-to-hire.
- /how-to-hire.html http://blog.samaltman.com/how-to-hire
+ https://busamaltman.breck.lol/how-to-hire.html http://blog.samaltman.com/how-to-hire
 
 Fire people quickly when you make hiring mistakes.
 

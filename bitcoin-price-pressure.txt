@@ -1,8 +1,8 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 April 30, 2014
 Bitcoin Price Pressure
 ======================
@@ -34,7 +34,7 @@ But it’s hard to imagine a future where the blockchain concept isn’t really 
  https://news.ycombinator.com/item?id=7570656 https://news.ycombinator.com/item?id=7570656
 
 [3] http://blog.samaltman.com/thoughts-on-bitcoin
- /thoughts-on-bitcoin.html http://blog.samaltman.com/thoughts-on-bitcoin
+ https://busamaltman.breck.lol/thoughts-on-bitcoin.html http://blog.samaltman.com/thoughts-on-bitcoin
 
 [4] http://blockchain.info/charts/estimated-transaction-volume
  http://blockchain.info/charts/estimated-transaction-volume http://blockchain.info/charts/estimated-transaction-volume

@@ -1,14 +1,14 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 March 2, 2015
 Machine intelligence, part 2
 ============================
 
 This is part two of a a two-part post—the first part is here.
- /machine-intelligence-part-1.html here
+ https://busamaltman.breck.lol/machine-intelligence-part-1.html here
 
 THE NEED FOR REGULATION
 

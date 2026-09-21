@@ -1,8 +1,8 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 June 30, 2014
 The Economy
 ===========
@@ -17,7 +17,7 @@ p 1) US GDP growth in real dollars is low (and trending down). It was -2.9% for 
  alt Image from The Economy
 
 (I wrote about this in more detail here.)
- /growth-and-government.html here
+ https://busamaltman.breck.lol/growth-and-government.html here
 
 p 2) Government debt is high. In fact, it’s quietly crossed over 100% of GDP for the first time since post-World War II. Debt like this is maybe ok if the economy is growing fast, but ours is not. And given demographic headwinds, etc., debt levels are likely to face further challenges. Here is a graph of our government debt to GDP. [2]
 

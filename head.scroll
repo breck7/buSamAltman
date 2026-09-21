@@ -1,4 +1,6 @@
 importOnly
+baseUrl https://busamaltman.breck.lol/
+openGraphImage busamaltman-poster.jpg
 blog.parsers
 editBaseUrl https://github.com/breck7/busamaltman/blob/main/
 inlineMarkups

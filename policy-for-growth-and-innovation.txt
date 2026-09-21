@@ -1,8 +1,8 @@
 Skip to content
- /#main Skip to content
+ https://busamaltman.breck.lol/#main Skip to content
 
 ← All writing
- /index.html#archive ← All writing
+ https://busamaltman.breck.lol/index.html#archive ← All writing
 January 14, 2015
 Policy for Growth and Innovation
 ================================
@@ -10,7 +10,7 @@ Policy for Growth and Innovation
 I get asked fairly often now by people in the US government what policy changes I would make to “fix innovation and drive economic growth” [1][2] (for some reason, it’s almost always that exact phrase).
 
 Innovation is obviously important—the US has long been the world’s best exporter of new ideas, and it’d be disastrously bad if that were no longer the case. Also, I don’t think our society will work very well without economic growth, and innovation is what will drive growth from where we are now. While it’s true that people are better off in absolute sense than they were a few hundred years ago, most of us are more sensitive to our wealth increasing over short time-scales (i.e. life getting better every year) than how fortunate we are relative to people who lived a long time ago. [3] Democracy works well in a society with lots of growth, but not a no-growth (i.e. zero-sum) society. Very low growth and a democracy are a very bad combination.
- /growth-and-government.html I don’t think our society will work very well without economic growth
+ https://busamaltman.breck.lol/growth-and-government.html I don’t think our society will work very well without economic growth
 
 So here is my answer:
 
