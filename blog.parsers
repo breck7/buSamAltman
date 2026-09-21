@@ -79,3 +79,13 @@ printArchiveParser
    particles.forEach(particle => particle.destroy())
    return html
   }
+
+originalLinkParser
+ extends scrollLinkParser
+ cue originalLink
+ atoms cueAtom
+ javascript
+  get link() {
+   const url = this.root.get("canonicalUrl") || ""
+   return url.startsWith("https://blog.samaltman.com/") ? url : "https://blog.samaltman.com/"
+  }
