@@ -3,6 +3,8 @@ description Search the full text of Sam Altman's blog.
 permalink search.html
 canonicalUrl search.html
 buildHtml
+buildJson
+buildCsv
 head.scroll
 
 container 1120px
