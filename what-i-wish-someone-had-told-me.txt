@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 December 21, 2023
 What I Wish Someone Had Told Me
 ===============================
@@ -24,8 +19,3 @@ What I Wish Someone Had Told Me
 15. Compounding exponentials are magic. In particular, you really want to build a business that gets a compounding advantage with scale.
 16. Get back up and keep going.
 17. Working with great people is one of the best parts of life.
-
-HTML | TXT
- link what-i-wish-someone-had-told-me.html HTML
- link what-i-wish-someone-had-told-me.txt TXT
-View source

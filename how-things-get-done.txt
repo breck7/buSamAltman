@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 July 17, 2013
 How things get done
 ===================
@@ -24,8 +19,3 @@ I make it a point to meet and help as many smart people as I can; besides being 
 It’s easy to not spend enough time on personal relationships—it seems in conflict with focus. But it’s an important exception. It’s also one of the most enjoyable parts of work.
 
 When you combine extreme focus and great teams, magic happens.
-
-HTML | TXT
- link how-things-get-done.html HTML
- link how-things-get-done.txt TXT
-View source

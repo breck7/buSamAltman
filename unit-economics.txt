@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 21, 2015
 Unit Economics
 ==============
@@ -28,8 +23,3 @@ Burn rates by themselves are not scary. Burn rates are scary when you scale the 
 The good news is that if you’re aware of this you can avoid the trap. If there’s no other way to operate in your space, maybe it’s a bad business. The low-margin, hyper-competitive world is not the only place to be. Companies always have an explanation about how they’re going to fix unit economics, so you really have to go out of your way not to delude yourself.
 
 If you hold yourself to the standard of making a product that is so good people spontaneously recommend it to their friends, and you have an easy-to-understand business model where you make more than you spend on each user, and it gets better not worse as you get bigger, you may not look like some of hottest companies of today, but you’ll look a lot like Google and Facebook.
-
-HTML | TXT
- link unit-economics.html HTML
- link unit-economics.txt TXT
-View source

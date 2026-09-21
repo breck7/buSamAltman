@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 12, 2014
 A Question
 ==========
@@ -20,8 +15,3 @@ And while I’d like to see us turn up the pace on innovation in the world of at
 There are some things technological innovation alone won’t help with and that we need to address in other ways—for example, I think massive wealth inequality is likely to be the biggest social problem of our time—but it seems to stretch credulity to claim that we have a lack of innovation.
 
 I’m always in awe of the remarkable technological progress we make decade over decade. I think it’s important to try not to lose your sense of wonder about this.
-
-HTML | TXT
- link a-question.html HTML
- link a-question.txt TXT
-View source

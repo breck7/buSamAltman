@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 6, 2025
 Reflections
 ===========
@@ -85,8 +80,3 @@ I thought I knew what it looked like to support a founder and a company, and in 
 There are others like them; it is an amazingly special thing about our industry and does much more to make it all work than people realize. I look forward to paying it forward.
 
 On a more personal note, thanks especially to Ollie for his support that weekend and always; he is incredible in every way and no one could ask for a better partner.
-
-HTML | TXT
- link reflections.html HTML
- link reflections.txt TXT
-View source

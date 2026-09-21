@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 5, 2013
 Party rounds
 ============
@@ -24,8 +19,3 @@ Perhaps another reason that party round companies have a harder time raising cap
 I’m all for seeing founders have more power and more ownership, and I’m all for VCs being forced to evolve, but I don’t think that having party rounds replace what used to be an A round is the answer.
 
 [1] There is a version of this that makes Y Combinator work—the deadline of Demo Day is extremely good at focusing companies on the right things.
-
-HTML | TXT
- link party-rounds.html HTML
- link party-rounds.txt TXT
-View source

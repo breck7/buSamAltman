@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 10, 2015
 FarmLogs
 ========
@@ -20,8 +15,3 @@ We need technology like this to meet the resource challenges that the planet wil
 The good news is that it’s doable. FarmLogs is only three years old (YC Winter 2012). The company has used less than $3 million of capital so far, and with it they have already helped farmers gain hundreds of millions of dollars in efficiency. The software revolution is making it possible to create world-changing companies relatively quickly and with relatively modest resources.
 
 And importantly, they started out doing something that any two programmers (with domain expertise in their market) could have done.
-
-HTML | TXT
- link farmlogs.html HTML
- link farmlogs.txt TXT
-View source

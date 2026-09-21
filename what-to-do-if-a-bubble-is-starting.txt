@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 24, 2013
 What to do if a bubble is starting
 ==================================
@@ -34,8 +29,3 @@ Resist the urge to ramp up to a crazy burn rate. Be especially fearful of long-t
 Bubbles bursting also require startups to focus, which is a good thing to be doing in any case. Cut products and features that are not working. Focus relentlessly.
 
 Of course, people are terrible at predicting bubbles and busts, so I’m likely wrong. Luckily, I really do believe these are good things to do anyway.
-
-HTML | TXT
- link what-to-do-if-a-bubble-is-starting.html HTML
- link what-to-do-if-a-bubble-is-starting.txt TXT
-View source

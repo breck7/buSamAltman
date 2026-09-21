@@ -3,8 +3,8 @@ head.scroll
 
 container 720px
  addClass article-header
-← All writing
- index.html#archive
+a ← All writing
+ href index.html#archive-heading
  addClass back
 printDate
 printTitle

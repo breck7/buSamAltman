@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 20, 2014
 Fundraising Mistakes Founders Make
 ==================================
@@ -95,8 +90,3 @@ There are two questions I really look at in early stage investments:
 1. Does the team know what to do?
 2. Can the team do it?
 The first question is addressed by the bullet point above. The second is addressed by showing that the team cares about operational quality. I’ve found that teams that execute well always know their numbers (or current status if in R+D mode) cold, and that it’s one of the best predictors of execution quality. It’s surprising how many companies pitch investors without knowing this information.
-
-HTML | TXT
- link fundraising-mistakes-founder-make.html HTML
- link fundraising-mistakes-founder-make.txt TXT
-View source

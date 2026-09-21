@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 24, 2015
 Bubble talk
 ===========
@@ -33,8 +28,3 @@ There will be downward pressure on valuations as interest rates rise. But I thin
 Of course, there could be a macro collapse in 2018 or 2019, which wouldn’t have time to recover by 2020. I think that’s the most likely way for me to lose.
 
 This bet is open to the first VC who would like to take it (though it is not clear to me anyone who wants to take the other side should be investing in startups.) The loser donates $100,000 to a charity of the winner’s choice.
-
-HTML | TXT
- link bubble-talk.html HTML
- link bubble-talk.txt TXT
-View source

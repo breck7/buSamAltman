@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 July 12, 2017
 The United Slate
 ================
@@ -19,8 +14,3 @@ More information about the principles and policies I believe in is at the link b
 
 p http://unitedslate.samaltman.com
  http://unitedslate.samaltman.com http://unitedslate.samaltman.com
-
-HTML | TXT
- link the-united-slate.html HTML
- link the-united-slate.txt TXT
-View source

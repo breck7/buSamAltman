@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 14, 2015
 Policy for Growth and Innovation
 ================================
@@ -83,8 +78,3 @@ There are obviously a lot of other policy changes I think we should make, but on
 [3] While access to knowledge, healthcare, food, water, etc. for people in developed countries is far better now than any time in history, extreme inequality still feels unfair (I’ll save my social rant for another time, but I think the level of extreme poverty that still exists in the world is absolutely atrocious. Traveling around the developing world is an incredible wake-up call.)
 
 [4] Sometimes the government people ask “Would you ever move YC out of the US?” with nervous laughter? I really like it here and I sure hope we don’t, but never say never.
-
-HTML | TXT
- link policy-for-growth-and-innovation.html HTML
- link policy-for-growth-and-innovation.txt TXT
-View source

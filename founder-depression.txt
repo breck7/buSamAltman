@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 13, 2014
 Founder Depression
 ==================
@@ -20,8 +15,3 @@ Failing sucks—there is no way to sugarcoat that. But startups are not life-and
 Most of the founders I know have had seriously dark times, and usually felt like there was no one they could turn to. For whatever it’s worth, you’re not alone, and you shouldn’t be ashamed.
 
 You’ll be surprised how much better you feel just by talking to people about the struggles you’re facing instead of saying “we’re crushing it”. You’ll also be surprised how much you find other founders are willing to listen.
-
-HTML | TXT
- link founder-depression.html HTML
- link founder-depression.txt TXT
-View source

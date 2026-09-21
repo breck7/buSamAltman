@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 August 21, 2015
 Financial Misstatements
 =======================
@@ -16,8 +11,3 @@ It is very important to make accurate financial statements to investors, and it 
 I’ve seen people use GMV for revenue or refer to an LOI as a contract many times in the past year when talking to investors. This is a felony.
 
 Although investors should be doing more diligence than is currently in fashion, this issue is on the founders to fix.
-
-HTML | TXT
- link financial-misstatements.html HTML
- link financial-misstatements.txt TXT
-View source

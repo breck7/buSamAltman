@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 9, 2025
 Three Observations
 ==================
@@ -62,8 +57,3 @@ Anyone in 2035 should be able to marshall the intellectual capacity equivalent t
 Thanks especially to Josh Achiam, Boaz Barak and Aleksander Madry for reviewing drafts of this.
 
 *By using the term AGI here, we aim to communicate clearly, and we do not intend to alter or interpret the definitions and processes that define our relationship with Microsoft. We fully expect to be partnered with Microsoft for the long term. This footnote seems silly, but on the other hand we know some journalists will try to get clicks by writing something silly so here we are pre-empting the silliness…
-
-HTML | TXT
- link three-observations.html HTML
- link three-observations.txt TXT
-View source

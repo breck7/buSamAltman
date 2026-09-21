@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 16, 2014
 The Worst Part of YC
 ====================
@@ -18,8 +13,3 @@ The best startups often look bad at this stage, and we make mistakes. We could e
 Although we had nearly 20% more applications than a year ago, it was really striking how much higher the average quality of applications was for this batch compared to any previous batch. Most of the partners independently mentioned this to me.
 
 Anyway, to everyone we’re unable to fund: Best of luck, and don’t give up. We love to see founders and companies reapply—companies that look bad now can look great with 6 months of progress.
-
-HTML | TXT
- link the-worst-part-of-yc.html HTML
- link the-worst-part-of-yc.txt TXT
-View source

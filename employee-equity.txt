@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 18, 2014
 Employee Equity
 ===============
@@ -66,8 +61,3 @@ Another structure I’ve seen is back-weighted vesting. For example, 10% of the 
 Finally, a third structure I’ve seen is a new way of thinking about refresher grants. For a company using options, it’s nice to grant employees options early while the strike is low. It’s possible to give “forward-dated grants”—i.e., you can give a high-performing employee a refresher grant today where 1/3 of it starts vesting immediately and the other 2/3 starts vesting when their initial grant is fully vested. This guarantees them a low-strike price and presumably a relatively large grant in a few years. Dustin Moskovitz at Asana does something like this, and I think it makes a lot of sense.
 
 These are just a few of the ideas I’ve seen about new ideas for employee vesting. But I think they’re worth considering—the default 4-year grant does not seem to be the best option.
-
-HTML | TXT
- link employee-equity.html HTML
- link employee-equity.txt TXT
-View source

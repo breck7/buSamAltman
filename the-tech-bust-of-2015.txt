@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 2, 2015
 The Tech Bust of 2015
 =====================
@@ -40,8 +35,3 @@ Thanks to Jack Altman, Patrick Collison, Paul Graham, Aaron Levie, Geoff Ralston
 [1] There are real problems with these distorted "valuations". Employees these companies hire often think of them as real valuations. It also often makes the company think of itself as much bigger than it is, and do the wrong things for its actual stage. Finally, too much cheap money lets companies operate with bad unit economics and cover up all sorts of internal problems. So I think many companies are hurting themselves with access to easy capital.
 
 [2] Even before the shift to debt-like rounds, the disconnect between how much people will pay for 5% of a company in preferred stock vs. 100% of a company in common stock was massive (and for good reason--the downside protection alone with preferred stock makes it much different than common stock). As this delta has accentuated, the public/private disconnect has gotten worse, and caused a number of problems for companies accustomed to valuations always going up.
-
-HTML | TXT
- link the-tech-bust-of-2015.html HTML
- link the-tech-bust-of-2015.txt TXT
-View source

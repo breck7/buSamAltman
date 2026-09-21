@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 30, 2014
 The Economy
 ===========
@@ -58,8 +53,3 @@ We need to get back to natural economic growth. The US has been very fortunate t
 
 [3] http://fivethirtyeight.blogs.nytimes.com/2013/01/16/what-is-driving-growth-in-government-spending/
  http://fivethirtyeight.blogs.nytimes.com/2013/01/16/what-is-driving-growth-in-government-spending/ http://fivethirtyeight.blogs.nytimes.com/2013/01/16/what-is-driving-growth-in-government-spending/
-
-HTML | TXT
- link the-economy.html HTML
- link the-economy.txt TXT
-View source

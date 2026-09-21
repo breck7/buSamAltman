@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 4, 2013
 A founder-friendly term sheet
 =============================
@@ -30,8 +25,3 @@ I have an allergic reaction to complex deal structures, as they invariably end u
 
 Download term_sheet.pdf
  https://phaven-prod.s3.amazonaws.com/files/document_part/asset/939149/2Jo8W4rZs_YSBq7noqY7bHkvDgA/term_sheet.pdf Download term_sheet.pdf
-
-HTML | TXT
- link a-founder-friendly-term-sheet.html HTML
- link a-founder-friendly-term-sheet.txt TXT
-View source

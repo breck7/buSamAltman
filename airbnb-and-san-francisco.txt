@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 28, 2015
 Airbnb and San Francisco
 ========================
@@ -33,8 +28,3 @@ I love San Francisco. I wish housing here were much cheaper. This is a special c
 [1] Selected Housing Characteristics, 2014 American Community Survey 1-Year Estimates
 
 Disclosure: I own a significant amount of Airbnb stock.
-
-HTML | TXT
- link airbnb-and-san-francisco.html HTML
- link airbnb-and-san-francisco.txt TXT
-View source

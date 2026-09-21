@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 16, 2017
 2017 YC Annual Letter
 =====================
@@ -207,8 +202,3 @@ It’s an exciting time to do what we do.
 Sam Altman
 
 President, YC Group
-
-HTML | TXT
- link 2017-yc-annual-letter.html HTML
- link 2017-yc-annual-letter.txt TXT
-View source

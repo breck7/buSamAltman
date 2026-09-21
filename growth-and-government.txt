@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 5, 2013
 Growth and Government
 =====================
@@ -75,8 +70,3 @@ As a closing thought, the Airbnb founders used to draw a forward-looking growth 
 It’s not as easy if you’re the US government. But probably not impossible, either, and it would at least point us in the right direction.
 
 Thanks to Paul Graham, Nick Sivo, and Peter Thiel for contributing ideas that led to this blog post.
-
-HTML | TXT
- link growth-and-government.html HTML
- link growth-and-government.txt TXT
-View source

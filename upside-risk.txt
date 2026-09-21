@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 25, 2013
 Upside risk
 ===========
@@ -18,8 +13,3 @@ Instead of downside risk [2], more investors should think about upside risk—no
 [1] Speaking of price, the mistake that founders make (corresponding to investors focusing too much on downside terms) is focusing too much on getting a high price. I have seen many founders price out good investors and put the company in a bad situation facing a down round a year later, all because they were obsessed with getting a high sticker price for their company. I think it’s because it gives founders something quantitative to compete on.
 
 [2] As a side note, I think most people have terrible intuition about investment risk/reward tradeoffs in general—this is not limited to private companies. It feels like every time I turn on CNBC (which is thankfully very infrequently) they’re talking about an impending total collapse. The end of the world only happens once; it’s very unlikely to be Monday morning. But we seem hardwired to focus on downside risk. The CNBC watchers would be better off keeping a cushion in cash and not selling their stocks after every panic.
-
-HTML | TXT
- link upside-risk.html HTML
- link upside-risk.txt TXT
-View source

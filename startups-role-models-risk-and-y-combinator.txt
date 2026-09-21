@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 25, 2014
 Startups, Role Models, Risk, and Y Combinator
 =============================================
@@ -55,8 +50,3 @@ Harry Zhang's (Lob YC S13) Advice for YC Applicants
 
 Y Combinator Applicant Advice by Zain Shah
  https://medium.com/on-startups/289c58a2ca89 Y Combinator Applicant Advice by Zain Shah
-
-HTML | TXT
- link startups-role-models-risk-and-y-combinator.html HTML
- link startups-role-models-risk-and-y-combinator.txt TXT
-View source

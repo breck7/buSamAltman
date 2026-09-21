@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 19, 2020
 Researchers and Founders
 ========================
@@ -27,8 +22,3 @@ They are creative idea-generators—a lot of the ideas may be terrible, but ther
 They really value autonomy and have a hard time with rules that they don’t think make sense. They are definitely not lemmings.
 
 Their motivations are often more complex than they seem—specifically, they are frequently very driven by genuine curiosity.
-
-HTML | TXT
- link researchers-and-founders.html HTML
- link researchers-and-founders.txt TXT
-View source

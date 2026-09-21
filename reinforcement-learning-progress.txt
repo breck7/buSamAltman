@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 25, 2018
 Reinforcement Learning Progress
 ===============================
@@ -17,8 +12,3 @@ The agents we train consistently outperform two-week old agents with a win rate 
 This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving. We hope to use this same approach to solve very different problems soon. It's easy to imagine this being applied to environments that look increasingly like the real world.
 
 There are many problems in the world that are far too complex to hand-code solutions for. I expect this to be a large branch of machine learning, and an important step on the road towards general intelligence.
-
-HTML | TXT
- link reinforcement-learning-progress.html HTML
- link reinforcement-learning-progress.txt TXT
-View source

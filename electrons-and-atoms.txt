@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 August 28, 2013
 Electrons and Atoms
 ===================
@@ -18,8 +13,3 @@ As a corollary, new companies that exist only in the real or online world do not
 In many ways, this is a version of Marc Andreessen’s “software is eating the world”. To eat the world, you have to operate in the world. I think two big reasons it’s happening so much now are 1) smartphones are in everyone’s hands and 2) there is a level of personal comfort with putting real life on the internet that seems to have tipped about two years ago.
 
 There are probably a lot of areas where this doesn’t apply—enterprise software and developer tools, for instance—and there are clear counterexamples like Google. But as a general rule, it seems to be worth considering when thinking about new businesses.
-
-HTML | TXT
- link electrons-and-atoms.html HTML
- link electrons-and-atoms.txt TXT
-View source

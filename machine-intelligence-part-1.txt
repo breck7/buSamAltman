@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 25, 2015
 Machine intelligence, part 1
 ============================
@@ -46,8 +41,3 @@ Human brains don’t look all that different from chimp brains, and yet somehow 
 Many people seem to believe that SMI would be very dangerous if it were developed, but think that it’s either never going to happen or definitely very far off. This is sloppy, dangerous thinking.
 
 [1] I prefer calling it "machine intelligence" and not "artificial intelligence" because artificial seems to imply it's not real or not very good. When it gets developed, there will be nothing artificial about it.
-
-HTML | TXT
- link machine-intelligence-part-1.html HTML
- link machine-intelligence-part-1.txt TXT
-View source

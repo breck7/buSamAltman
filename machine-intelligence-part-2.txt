@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 2, 2015
 Machine intelligence, part 2
 ============================
@@ -65,8 +60,3 @@ Thanks to Dario Amodei (especially Dario), Paul Buchheit, Matt Bush, Patrick Col
 [1] If you want to try to guess when, the two things I’d think about are computational power and algorithmic development. For the former, assume there are about 100 billion neurons and 100 trillion synapses in a human brain, and the average neuron fires 5 times per second, and then think about how long it will take on the current computing trajectory to get a machine with enough memory and flops to simulate that.
 
 For the algorithms, neural networks and reinforcement learning have both performed better than I’ve expected for input and output respectively (e.g. captioning photos depicting complex scenes, beating humans at video games the software has never seen before with just the ability to look at the screen and access to the controls). I am always surprised how unimpressed most people seem with these results. Unsupervised learning has been a weaker point, and this is probably a critical part of replicating human intelligence. But many researchers I’ve spoken to are optimistic about current work, and I have no reason to believe this is outside the scope of a Turing machine.
-
-HTML | TXT
- link machine-intelligence-part-2.html HTML
- link machine-intelligence-part-2.txt TXT
-View source

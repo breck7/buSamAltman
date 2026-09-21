@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 16, 2015
 The Software Revolution
 =======================
@@ -42,8 +37,3 @@ To be clear, I’m a fan of the software revolution and I feel fortunate I was b
 However, ignoring quality of life relative to other people alive today feels like it ignores what make us human. I think it’s a good thing when some people make thousands of times as much money as what other people make, but I also don’t resent paying my taxes and think we should do much more to help people that are actually poor. The social safety net will have to trend up with the development of technology.
 
 [3] Or at least, one used to: http://en.wikipedia.org/wiki/Separation_of_isotopes_by_laser_excitation
-
-HTML | TXT
- link the-software-revolution.html HTML
- link the-software-revolution.txt TXT
-View source

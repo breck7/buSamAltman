@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 July 13, 2022
 Helion Needs You
 ================
@@ -35,8 +30,3 @@ Manager of Mechanical Engineering: https://boards.greenhouse.io/helionenergy/job
 
 (All current jobs: https://www.helionenergy.com/careers/)
  https://www.helionenergy.com/careers/ https://www.helionenergy.com/careers/
-
-HTML | TXT
- link helion-needs-you.html HTML
- link helion-needs-you.txt TXT
-View source

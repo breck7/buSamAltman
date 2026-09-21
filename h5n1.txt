@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 December 11, 2013
 H5N1
 ====
@@ -38,8 +33,3 @@ When we first became able to create software programs in garages, it changed the
 Thanks to Patrick Collison, Connie Gibstine, and Nick Sivo for reading drafts of this.
 
 [1] Biotechnology is scary in a lot of non-obvious ways. Sure, it’s easy to understand why superviruses are scary. But another possibility is that we engineer the perfect happiness drug, with no bad side effects, and no one wants to do anything but lay in bed and take this drug all day, sapping all ambition from the human race. There are a lot of other possibilities too, and it’s very hard to think of them because we don’t have much experience with what's about to happen.
-
-HTML | TXT
- link h5n1.html HTML
- link h5n1.txt TXT
-View source

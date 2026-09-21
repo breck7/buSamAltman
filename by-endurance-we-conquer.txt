@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 28, 2013
 By endurance we conquer
 =======================
@@ -12,8 +7,3 @@ I'm reading The Endurance and "by endurance we conquer" (Ernest Shackleton's fam
 Everyone knows that you need a great team, great execution, and a great idea. Less obvious is that you have to have great endurance. It's very tough to keep going when everyone tells you your idea sucks and it will never work (especially when things are plainly not working). It's tough to keep going when everything goes wrong, which it almost certainly will. And it's tough to keep working when you're really tired, but very often that extra 5% at a critical point is how you beat out a competitor for a critical deal and then they disappear in the rearview mirror.
 
 Most startups don't die at the hands of a competitor. It's more often something like an internal implosion, the founders giving up, or not building something people want (and failing to remedy that situation). You can win by endurance.
-
-HTML | TXT
- link by-endurance-we-conquer.html HTML
- link by-endurance-we-conquer.txt TXT
-View source

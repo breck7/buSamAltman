@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 October 17, 2016
 The 2016 Election
 =================
@@ -28,8 +23,3 @@ The way we got into a situation with Trump as a major party nominee in the first
 We should all feel a duty to try to understand the roughly half of the country that thinks we are severely misguided. I don’t understand how 43% of the country supports Trump. But I’d like to find out, because we have to include everyone in our path forward. If our best ideas are to stop talking to or fire anyone who disagrees with us, we’ll be facing this whole situation again in 2020.
 
 That kind of diversity is painful and unpopular, but it is critical to health of a democratic and pluralistic society. We shouldn’t start purging people for supporting the wrong political candidate. That's not how things are done in this country.
-
-HTML | TXT
- link the-2016-election.html HTML
- link the-2016-election.txt TXT
-View source

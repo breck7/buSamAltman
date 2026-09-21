@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 30, 2016
 Asana
 =====
@@ -21,8 +16,3 @@ Asana is the kind of lever that could someday massively increase the productivit
 Finally, Asana has an incredible team that, as far as I can tell as an outsider, really believes in the mission and loves the work environment (the Glassdoor reviews, something I check before every late-stage investment, are among the best I’ve ever seen).
 
 These are all the ingredients that go into the development of an incredibly impactful and valuable company. I’m very happy to be along for the ride.
-
-HTML | TXT
- link asana.html HTML
- link asana.txt TXT
-View source

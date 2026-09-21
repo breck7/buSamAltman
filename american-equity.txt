@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 27, 2017
 American Equity
 ===============
@@ -34,8 +29,3 @@ American Equity would create a society that I believe would work much better tha
 [1] It’s time to update our tax system for the way wealth works in the modern world—for example, taxing capital and labor at the same rates. And we should consider eventually replacing some of our current aid programs, which distort incentives and are needlessly complicated and inefficient, with something like this.
 
 Of course this won’t solve all our problems—we still need serious reform in areas such as housing, education, and healthcare. Without policies that address the cost of living crisis, any sort of redistribution will be far less effective than it otherwise could be.
-
-HTML | TXT
- link american-equity.html HTML
- link american-equity.txt TXT
-View source

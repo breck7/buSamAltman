@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 11, 2014
 Board Members
 =============
@@ -28,8 +23,3 @@ The companies that have had the biggest impact and created the most value have h
 It’s a good idea to keep enough control so that investors can’t fire you (there are a lot of different ways to do this), but beyond that, it’s important to bring in other people and trust them to help you build the company.
 
 Thanks to Mike Moritz for reviewing a draft of this.
-
-HTML | TXT
- link board-members.html HTML
- link board-members.txt TXT
-View source

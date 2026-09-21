@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 9, 2025
 Jakub and Szymon
 ================
@@ -12,8 +7,3 @@ AI has gotten remarkably better in recent years; ChatGPT can do amazing things t
 There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor. Time and again, they combine research and engineering to solve impossible problems. They have not gotten enough public credit, but they decided to scale up RL as a baseline to see where it broke when the conventional wisdom was that it didn't scale which led to our Dota result, built much of the infrastructure that enabled a lot of our scientific discoveries, led GPT-4 pretraining, drove together with Ilya and Lukasz the initial ideas that led to the reasoning breakthrough, and have made significant progress exploring new paradigms.
 
 Jakub is our chief scientist. He once described Szymon as “indefatigable”, which is as perfect of a use of that word as I have ever heard. OpenAI has not yet thrown a problem at them they have not been able to solve; I have heard about partnerships like there is research labs of the past where two people are able to complement each other so well, but it is very special to get to watch it unfold over the years.
-
-HTML | TXT
- link jakub-and-szymon.html HTML
- link jakub-and-szymon.txt TXT
-View source

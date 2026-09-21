@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 August 23, 2016
 Don&#x27;t Read The Comments
 ============================
@@ -24,8 +19,3 @@ YC itself faced this for a long time. We turned out to do ok.
 A friend of mine likes to say "there are two kinds of people in the world--the people that build the future, and the people who write posts on the internet about why they'll fail". Keep trying to be in former category.
 
 The people who have said there is nothing new left to do in the world have been wrong every time. Don't let their lack of imagination hold you back.
-
-HTML | TXT
- link dont-read-the-comments.html HTML
- link dont-read-the-comments.txt TXT
-View source

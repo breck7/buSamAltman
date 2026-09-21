@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 26, 2020
 Hard Startups
 =============
@@ -30,8 +25,3 @@ Be willing to make a very long-term commitment to what you’re doing. Most peop
 Thanks to Luke Miles for reviewing drafts of this.
 
 [1] Another solution to this problem is to think about startups that can become quite successful with less than ten people. As compensation packages from the giant tech companies continue to increase, I suspect this will become a trend.
-
-HTML | TXT
- link hard-startups.html HTML
- link hard-startups.txt TXT
-View source

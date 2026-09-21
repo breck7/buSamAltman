@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 11, 2015
 China
 =====
@@ -42,8 +37,3 @@ The other stark contrast is how much harder people in China seem to work than pe
 [2] One thing that I’ve found puzzling over the last ten or so years is the anger directed towards people who choose to work hard. This is almost never from actually poor people who work two minimum wage jobs (who work harder than all the rest of us, pretty much) but from middle class people. It’s often somewhat subtle—“It’s so stupid that these people play the startup lottery. What idiots. They should just consult.” or “Startups need to stop glorifying young workers that can work all day and night”—but the message is clear. My explanation is that this is simply what happens in a low-growth, zero-sum environment.
 
 [3] A significant and relevant headwind for US growth is that current US policy often encourages investment and job growth outside the US; domestic companies can borrow at low rates because of 0% Fed lending, build factories (and create jobs) in other countries, and then hold/reinvest those profits offshore rather than pay high taxes repatriating their funds.
-
-HTML | TXT
- link china.html HTML
- link china.txt TXT
-View source

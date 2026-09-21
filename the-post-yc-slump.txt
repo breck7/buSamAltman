@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 August 20, 2015
 The Post-YC Slump
 =================
@@ -32,8 +27,3 @@ Many YC startups learns these lessons after a year or two in the wilderness, but
 The best startups we fund keep on doing exactly what they did during YC. This sounds so simple and so obvious, but in practice so few founders do it.
 
 The good news is it’s doable with deliberate effort. If every founder (YC and otherwise) did it, the number of successful startups would probably double.
-
-HTML | TXT
- link the-post-yc-slump.html HTML
- link the-post-yc-slump.txt TXT
-View source

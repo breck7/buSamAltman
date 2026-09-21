@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 16, 2014
 Value is created by doing
 =========================
@@ -33,8 +28,3 @@ If you’re reading this and feeling unproductive, there’s a silver lining. Yo
 [1] I count blogging as a marginal use of time, but the reason I started is because I realized it was important to be good at writing, I was bad at it, and the only way I was going to improve was with lots of practice. And sometimes I meet really interesting founders because of something I wrote.
 
 [2] This isn’t meant as any sort of relative value judgment; if what you want to do is build an enterprise software company, then you should do that. The problem comes when what you really want to do is build rockets. A lot of people feel like they first should do something to make money and then do what they care about (or first work at a company for awhile before starting a company they really want to start). While you of course should take care of your family before anything else, you should try to work on what you really care about. You can usually find a way. The danger is that life is short and you only get to work on a small number of companies over the course of a career—it’s worth trying to make them count.
-
-HTML | TXT
- link value-is-created-by-doing.html HTML
- link value-is-created-by-doing.txt TXT
-View source

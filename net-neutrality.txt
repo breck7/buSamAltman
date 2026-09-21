@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 July 14, 2014
 Net neutrality
 ==============
@@ -28,8 +23,3 @@ As long as consumers don’t have freedom of choice, last-mile traffic discrimin
 [1] Unpaid prioritization is sometimes necessary; if everyone in a neighborhood is trying to stream 4k video, something is going to get prioritized.
 
 [2] One reason wireless Internet is good that is that it doesn’t face the last-mile challenge; consumers can choose among Verizon, ATT, Sprint, etc.
-
-HTML | TXT
- link net-neutrality.html HTML
- link net-neutrality.txt TXT
-View source

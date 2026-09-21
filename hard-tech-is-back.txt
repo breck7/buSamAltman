@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 11, 2016
 Hard Tech is Back
 =================
@@ -23,8 +18,3 @@ Leave the Medium thought pieces about when the stock market is going to crash an
 Different YC partners have different interests, but I’m particularly excited about AI (both general AI and narrow AI applied to specific industries, which seems like the most obvious win in all of startups right now), biotech, and energy.
 
 We hope to hear from you.
-
-HTML | TXT
- link hard-tech-is-back.html HTML
- link hard-tech-is-back.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 May 13, 2024
 GPT-4o
 ======
@@ -22,8 +17,3 @@ The original ChatGPT showed a hint of what was possible with language interfaces
 Talking to a computer has never felt really natural for me; now it does. As we add (optional) personalization, access to your information, the ability to take actions on your behalf, and more, I can really see an exciting future where we are able to use computers to do much more than ever before.
 
 Finally, huge thanks to the team that poured so much work into making this happen!
-
-HTML | TXT
- link gpt-4o.html HTML
- link gpt-4o.txt TXT
-View source

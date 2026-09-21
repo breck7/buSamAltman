@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 October 31, 2013
 Non-technical founder? Learn to hack
 ====================================
@@ -24,8 +19,3 @@ Speaking of cofounders, a word of warning: meeting a stranger for the express pu
 You can build the first version of your product, and even if it's terrible (we had a non-technical founder in YC that learned to hack with Codecademy and was still able to learn enough to build a prototype), you'll actually be able to get real user feedback, iterate on something other than mockups, and perhaps impress a great hacker enough to join you. Although you may never win a Turing Award, if you're smart and determined, you can certainly get good enough to build a meaningful version 1.
 
 If you're a solo founder and you can't hack, learn.
-
-HTML | TXT
- link non-technical-founder-learn-to-hack.html HTML
- link non-technical-founder-learn-to-hack.txt TXT
-View source

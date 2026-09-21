@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 30, 2014
 Bitcoin Price Pressure
 ======================
@@ -40,8 +35,3 @@ But it’s hard to imagine a future where the blockchain concept isn’t really 
  http://blockchain.info/charts/estimated-transaction-volume http://blockchain.info/charts/estimated-transaction-volume
 
 [5] Speaking of dogecoin, as of this writing, it is the number 3 crytocurrency measured by daily volume, and if the market cap went up $10MM (about 25%), it would be the number 3 by market cap also.
-
-HTML | TXT
- link bitcoin-price-pressure.html HTML
- link bitcoin-price-pressure.txt TXT
-View source

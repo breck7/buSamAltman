@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 December 3, 2013
 The Only Way to Grow Huge
 =========================
@@ -18,8 +13,3 @@ The only way to generate sustained exponential growth is to make whatever you're
 Having a growth team is still a good idea--you almost always need to jumpstart things. But don't forget about what you actually have to accomplish.
 
 Thanks to Jack Altman for reading a draft of this.
-
-HTML | TXT
- link the-only-way-to-grow-huge.html HTML
- link the-only-way-to-grow-huge.txt TXT
-View source

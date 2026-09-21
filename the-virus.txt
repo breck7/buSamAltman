@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 7, 2020
 The Virus
 =========
@@ -16,8 +11,3 @@ In the meantime, young healthy people should try to avoid getting Covid-19 for a
 I expect society will shift to a new normal pretty fast. Some of these elements—e.g., much less business travel, much less handshaking, much more handwashing—I expect to just stick. Some others—e.g., people working from home all of the time—I expect to not stick.
 
 The economic disruption is still probably under-appreciated and will remind us that our systems are more fragile than we think. For example, I do not think the recent plunge in US Treasury yields is explained by Covid-19 alone, but rather a reminder of cascading effects that can happen in a complex system.
-
-HTML | TXT
- link the-virus.html HTML
- link the-virus.txt TXT
-View source

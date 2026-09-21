@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 May 19, 2017
 Join the YC Software Team
 =========================
@@ -17,8 +12,3 @@ Software is how we can scale YC, and the limits of that are probably further out
 
 You can apply here: http://bit.ly/1Od0T2l.
  http://bit.ly/1Od0T2l http://bit.ly/1Od0T2l
-
-HTML | TXT
- link join-the-yc-software-team.html HTML
- link join-the-yc-software-team.txt TXT
-View source

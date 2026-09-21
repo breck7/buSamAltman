@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 15, 2016
 &#x27;We&#x27;re in a Bubble&#x27;
 ==================================
@@ -42,8 +37,3 @@ and, famously, Signal v. Noise, Facebook is not worth $33,000,000,000. "But the 
 
 2016 -- And now Trump thinks we’re in a tech bubble too, so maybe it’s true.
  http://www.reuters.com/article/us-usa-election-trump-excerpts-idUSKCN0Y82OJ Trump thinks we’re in a tech bubble too
-
-HTML | TXT
- link were-in-a-bubble.html HTML
- link were-in-a-bubble.txt TXT
-View source

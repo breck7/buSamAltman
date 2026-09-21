@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 August 14, 2015
 The U.S. Digital Service
 ========================
@@ -25,8 +20,3 @@ As an American, I am grateful to these men and women for doing this. Because of 
 
 I often get asked about what people can do for a year or two to make a big impact between projects. Here is a good answer. Consider joining the ranks. I think it’d be great if it became a new tradition that people from the tech world do a tour of duty serving our country at some point in their careers. We need better technology in government.
  https://www.whitehouse.gov/digital/united-states-digital-service joining
-
-HTML | TXT
- link the-us-digital-service.html HTML
- link the-us-digital-service.txt TXT
-View source

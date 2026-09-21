@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 30, 2025
 Sora 2
 ======
@@ -28,8 +23,3 @@ In addition to the mitigations we have already put in place (which include thing
 *Prioritize creation. We want to make it easy and rewarding for everyone to participate in the creation process; we believe people are natural-born creators, and creating is important to our satisfaction.
 
 *Help users achieve their long-term goals. We want to understand a user’s true goals, and help them achieve them. If you want to be more connected to your friends, we will try to help you with that. If you want to get fit, we can show you fitness content that will motivate you. If you want to start a business, we want to help teach you the skills you need. And if you truly just want to doom scroll and be angry, then ok, we’ll help you with that (although we want users to spend time using the app if they think it’s time well spent, we don’t want to be paternalistic about what that means to them).
-
-HTML | TXT
- link sora-2.html HTML
- link sora-2.txt TXT
-View source

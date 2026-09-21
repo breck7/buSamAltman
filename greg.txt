@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 7, 2017
 Greg
 ====
@@ -24,8 +19,3 @@ Greg also played the role of ‘non-technical cofounder’, which is a misnomer 
 Without someone dedicated to finding a solution to all problems, no matter how difficult, eventually a large problem will come along and kill you while you’re still weak. Founding teams need a Chief Optimist to rally everyone to press on despite the difficulties, and it’s always hard on that person because they can’t really lean on anyone else in the hardest times.
 
 You for sure need great technical talent on a founding team, but make sure you also have someone like Greg. If they’re the same person, then you’ve hit the jackpot.
-
-HTML | TXT
- link greg.html HTML
- link greg.txt TXT
-View source

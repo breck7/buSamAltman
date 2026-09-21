@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 24, 2019
 How To Be Successful
 ====================
@@ -209,8 +204,3 @@ It is obviously an incredible shame and waste that opportunity is so unevenly di
 I am deeply aware of the fact that I personally would not be where I am if I weren't born incredibly lucky.
 
 Thanks to Brian Armstrong, Greg Brockman, Dalton Caldwell, Diane von Furstenberg, Maddie Hall, Drew Houston, Vinod Khosla, Jessica Livingston, Jon Levy, Luke Miles (6 drafts!), Michael Moritz, Ali Rowghani, Michael Seibel, Peter Thiel, Tracy Young and Shivon Zilis for reviewing drafts of this, and thanks especially to Lachy Groom for help writing it.
-
-HTML | TXT
- link how-to-be-successful.html HTML
- link how-to-be-successful.txt TXT
-View source

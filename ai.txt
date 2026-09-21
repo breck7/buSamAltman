@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 19, 2014
 AI
 ==
@@ -28,8 +23,3 @@ The biggest question for me is not about artificial intelligence, but instead ab
 It’s possible--probable, even--that this sort of creativity will be an emergent property of learning in some non-intuitive way. Something happened in the course of evolution to make the human brain different from the reptile brain, which is closer to a computer that plays pong. (I originally was going to say a computer that plays chess, but computers play chess with no intuition or instinct--they just search a gigantic solution space very quickly.)
 
 And maybe we don't want to build machines that are concious in this sense. The most positive outcome I can think of is one where computers get really good at doing, and humans get really good at thinking. If we never figure out how to make computers creative, then there will be a very natural division of labor between man and machine.
-
-HTML | TXT
- link ai.html HTML
- link ai.txt TXT
-View source

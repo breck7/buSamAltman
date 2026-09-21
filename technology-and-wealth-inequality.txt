@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 28, 2014
 Technology and wealth inequality
 ================================
@@ -91,8 +86,3 @@ Follow me on Twitter here: http://twitter.com/sama
 
 [Image Omitted]
  alt Image from Technology and wealth inequality
-
-HTML | TXT
- link technology-and-wealth-inequality.html HTML
- link technology-and-wealth-inequality.txt TXT
-View source

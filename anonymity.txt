@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 February 10, 2014
 Anonymity
 =========
@@ -16,8 +11,3 @@ I've often thought about the need for an anonymous social network to go along wi
 Anonymity breeds meanness--the Internet has proven this time and time again. People are willing to say nice or neutral things with their name attached--they need anonymity for mean things and things they are embarrassed about. In fact, the closer to real identity internet forums get, the less they seem to decay. Anonymous social networks have been (thus far, anyway) in the category of services that get worse as they get bigger--unlike services like Facebook or Twitter that get better as they get bigger.
 
 People love gossip until it's about themselves. My prediction for Secret is that it gets very popular (like the previous gossip services) and then eventually the rancor gets untenably bad and people stop using it (like the previous gossip services). But until we reach that point, I assume we'll see some really nasty things that people can't stop reading.
-
-HTML | TXT
- link anonymity.html HTML
- link anonymity.txt TXT
-View source

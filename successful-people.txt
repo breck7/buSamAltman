@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 8, 2013
 Successful people
 =================
@@ -12,8 +7,3 @@ Successful people
 I heard this from Qi Lu; I'm not sure what the source is. It got me thinking, though--the most successful founders do not set out to create companies. They are on a mission to create something closer to a religion, and at some point it turns out that forming a company is the easiest way to do so.
 
 In general, the big companies don't come from pivots, and I think this is most of the reason why.
-
-HTML | TXT
- link successful-people.html HTML
- link successful-people.txt TXT
-View source

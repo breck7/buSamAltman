@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 13, 2016
 Cruise
 ======
@@ -29,8 +24,3 @@ According to Kyle, Jeremy did not write any code or build any hardware during th
 Kyle told me that Jeremy would occasionally reach out to congratulate him on press about Cruise (for example, he reached out to congratulate Kyle on Cruise’s Series A), but he never asked for anything—until now, when, in my opinion, he saw an opportunity to make a ton of money.
 
 [2] I was personally involved all day on Friday last week to try to help settle this claim. Given the time pressure because of the pending merger, we had to set a Friday at 5 pm deadline for Kyle’s offer, which Jeremy let expire.
-
-HTML | TXT
- link cruise.html HTML
- link cruise.txt TXT
-View source

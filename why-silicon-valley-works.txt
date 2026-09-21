@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 3, 2014
 Why Silicon Valley Works
 ========================
@@ -26,8 +21,3 @@ One question I get asked a lot is how to replicate the success of Silicon Valley
 I think you need two other things: an area where many ambitious people care most about start-ups and technology, and a focus on long-term compensation. In most cities, there’s one field that dominates the conversation – finance in New York, politics in DC, movies in LA and start-ups in San Francisco. If start-ups are second fiddle, it will be challenging to replicate the environment of Silicon Valley.
 
 The focus in Silicon Valley on long-term compensation is also important. Nearly everyone wants to get rich but they’re willing to wait to do so. Conspicuous consumption isn’t that cool; not too many people drive Ferraris or talk about their vacation homes. Unlike other cities where people are mostly focused on cash compensation for this year, in Silicon Valley more people talk about equity than salaries (assuming, of course, that they can afford the wildly-out-of-control housing costs, which is probably the biggest weakness here right now). A focus on making a lot of money in the long term at the expense of short-term opportunities is essential to building companies that have a huge impact – they take a long time.
-
-HTML | TXT
- link why-silicon-valley-works.html HTML
- link why-silicon-valley-works.txt TXT
-View source

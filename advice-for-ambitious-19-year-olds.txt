@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 24, 2013
 Advice for ambitious 19 year olds
 =================================
@@ -42,8 +37,3 @@ Thanks to Lachy Groom and Nick Sivo for reading drafts of this.
 [1] Sometimes, a 4th option is being a VC. This is usually a mistake—the best way to become a VC is not to grind your way up the ladder from junior associate intern. Even if you want to be a VC, you’re much better off starting or joining a startup, and getting partner offers when you’re 28. Plus, good founders want to work with an investor that has operational experience.
 
 [2] Interestingly, no one is ever considering going into academia.
-
-HTML | TXT
- link advice-for-ambitious-19-year-olds.html HTML
- link advice-for-ambitious-19-year-olds.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 11, 2013
 Aliens
 ======
@@ -12,8 +7,3 @@ I don't believe that any of the blurry UFO photos are real, for a very simple re
 There is a version of this to keep in mind when listening to startups make certain types of extraordinary claims.
 
 (As a random aside, I went back and looked at some old photos of purported UFOs and real aircraft. A hat-tip to the designers of the SR-71 for creating the only aircraft that still manages to look super-futuristic 50 years later.)
-
-HTML | TXT
- link aliens.html HTML
- link aliens.txt TXT
-View source

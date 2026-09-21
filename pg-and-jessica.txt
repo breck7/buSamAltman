@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 25, 2020
 PG and Jessica
 ==============
@@ -20,8 +15,3 @@ Perhaps most importantly, they built an ecosystem (thanks to Joe Gebbia for poin
 I am not sure if any of this is particularly useful advice—none of it sounds that hard, and yet in the 15 years since, it hasn’t been close to replicated.
 
 But it seems worth trying. I am pretty sure no one has had a bigger total impact on the careers of people in the startup industry over that time period than the two of them.
-
-HTML | TXT
- link pg-and-jessica.html HTML
- link pg-and-jessica.txt TXT
-View source

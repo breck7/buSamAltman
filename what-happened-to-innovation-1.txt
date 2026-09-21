@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 20, 2013
 What happened to innovation?
 ============================
@@ -83,8 +78,3 @@ Thanks to Jack Altman, Patrick Collison, Kevin Lawler, Eric Migicovsky, Geoff Ra
 [2] Talk about STEM—the study of science, technology, engineering, and mathematics—is mostly BS. Learning to hack Rails in ten weeks is regrettably a good career move as of June 20th, 2013. Learning physics over ten years has a much worse economic payoff. In today’s world, we have programming, and we have everything else. At least in terms of a plan to become qualified for better jobs, STEM should be renamed CS.
 
 As a side note to the side note, I don’t blame finance for stealing our good engineers. The failure is that non-CS engineering career paths don’t look very attractive right now.
-
-HTML | TXT
- link what-happened-to-innovation-1.html HTML
- link what-happened-to-innovation-1.txt TXT
-View source

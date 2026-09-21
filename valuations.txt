@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 20, 2014
 Valuations
 ==========
@@ -44,8 +39,3 @@ Some day the top-callers will be right. It certainly feels to me like we may be 
 [1] My guess for what happens is that the great VCs continue to do well. Many investors think new startups will be worth more than most of the startups from ten years ago—markets keep getting bigger, more good people are starting startups, startups are becoming easier to start, distribution keeps getting easier, and interest rates will probably stay low—or it’s possible that VCs will generate still good but lower-than-historical returns.
 
 [2] The increase in valuations has led to some funny new behaviors. One of the funniest examples is a simultaneous obsession with the price other investors are paying—“Even though I thought this price was good yesterday, I found out someone else is getting to invest at a lower price and I’m furious”—coupled with a refrain of “I’ll work really hard for the company and add much more value than your other investors, so I’d like advisory shares or a discount to participate in your round”. I hope investors will stop doing these sorts of things.
-
-HTML | TXT
- link valuations.html HTML
- link valuations.txt TXT
-View source

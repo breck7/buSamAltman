@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 July 28, 2014
 Black Swan Seed Rounds
 ======================
@@ -26,8 +21,3 @@ Great companies often look like bad ideas at the beginning—at a minimum, if it
 I asked a few other investors about their experiences, and most are roughly similar. Most of the really big hits never had TechCrunch writing about their super competitive seed round everyone was trying to get in.
 
 I think there are a lot of reasons for this. A big one is that being good at fundraising has very little to do with running a good company. Another is that most investors are actually very risk-averse despite what they say, and the great companies look really risky at the seed stage. And a major third is that it’s just very hard to pick well at the seed stage, and most companies don’t have hot seed rounds, so most successful companies don’t either (though I don’t think this random distribution fully explains the phenomenon). But in any case, founders shouldn’t worry if their seed round isn’t massively oversubscribed.
-
-HTML | TXT
- link black-swan-seed-rounds.html HTML
- link black-swan-seed-rounds.txt TXT
-View source

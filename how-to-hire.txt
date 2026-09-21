@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 23, 2013
 How to hire
 ===========
@@ -152,8 +147,3 @@ Good luck. Hiring is very hard but very important work. And don’t forget that 
 Always be identifying and promoting new talent. This is not as sexy as thinking about new problems to solve, but it will make you successful.
 
 Thanks to Patrick Collison, Andrew Mason, Keith Rabois, Geoff Ralston, and Nick Sivo for reading drafts of this.
-
-HTML | TXT
- link how-to-hire.html HTML
- link how-to-hire.txt TXT
-View source

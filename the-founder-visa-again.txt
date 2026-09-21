@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 17, 2014
 The Founder Visa (again)
 ========================
@@ -20,8 +15,3 @@ If founders from elsewhere want to pay taxes and create jobs in the US, we shoul
 This is just a start. We are also in need of broad-based immigration reform, and I believe more immigrants will help our country. But I also understand that the founder visa got tangled up with full-scale immigration reform, which may take a long time. This is an easy way to have an immediate effect, and it’s good to move the ball down the field with small, incremental experiments.
 
 Let us show you what we can do with 100 visas. This will be measurable, and in 5 years, we can tell you exactly how many jobs get created.
-
-HTML | TXT
- link the-founder-visa-again.html HTML
- link the-founder-visa-again.txt TXT
-View source

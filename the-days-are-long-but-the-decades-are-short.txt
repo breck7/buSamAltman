@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 28, 2015
 The days are long but the decades are short
 ===========================================
@@ -80,8 +75,3 @@ p 34) Think for a few seconds before you act. Think for a few minutes if you’r
 p 35) Don’t judge other people too quickly. You never know their whole story and why they did or didn’t do something. Be empathetic.
 
 p 36) The days are long but the decades are short.
-
-HTML | TXT
- link the-days-are-long-but-the-decades-are-short.html HTML
- link the-days-are-long-but-the-decades-are-short.txt TXT
-View source

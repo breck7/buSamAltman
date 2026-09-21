@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 29, 2014
 You and Your Research, by Richard Hamming
 =========================================
@@ -211,8 +206,3 @@ Hamming: There was some luck. On the other hand I don't know the alternate branc
 Go forth, then, and do great work!
 
 [1] http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
-
-HTML | TXT
- link you-and-your-research.html HTML
- link you-and-your-research.txt TXT
-View source

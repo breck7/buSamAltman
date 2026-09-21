@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 31, 2017
 Tech Workers&#x27; Values
 =========================
@@ -21,8 +16,3 @@ We are planning to hold a meeting on the evening of April 9th in the Bay Area. P
 We're going try to keep this first group smaller than 50 people so that everyone can actually participate. If more people than that want to attend, we'll try to select a diverse group of people from a large set of companies. If this event seems to go well, we expect to host similar meetings in the future.
 
 --Sam Altman, Debra Cleaver, Matt Krisiloff
-
-HTML | TXT
- link tech-workers-values.html HTML
- link tech-workers-values.txt TXT
-View source

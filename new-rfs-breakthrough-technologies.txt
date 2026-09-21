@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 March 19, 2014
 New RFS -- Breakthrough Technologies
 ====================================
@@ -63,8 +58,3 @@ As a side note, you shouldn’t start a company just because it’s on this list
 [1] To be clear, we are not interested in funding patent trolls. We only want to fund businesses that actually solve problems and create value.
 
 [2] Related to long time horizons, if a company needs to raise a billion dollars of funding over the course of its life, that doesn’t scare us—in fact, that’s a plus.
-
-HTML | TXT
- link new-rfs-breakthrough-technologies.html HTML
- link new-rfs-breakthrough-technologies.txt TXT
-View source

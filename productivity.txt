@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 April 10, 2018
 Productivity
 ============
@@ -109,8 +104,3 @@ In general, I think it’s good to overcommit a little bit. I find that I genera
 Don’t neglect your family and friends for the sake of productivity—that’s a very stupid tradeoff (and very likely a net productivity loss, because you’ll be less happy). Don’t neglect doing things you love or that clear your head either.
 
 Finally, to repeat one more time: productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.
-
-HTML | TXT
- link productivity.html HTML
- link productivity.txt TXT
-View source

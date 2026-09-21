@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 May 28, 2020
 Idea Generation
 ===============
@@ -40,8 +35,3 @@ Finally, a good test for an idea is if you can articulate why most people think 
 This is from my notes for a talk I gave at a YC event in China in 2018. Thanks to Eric Migicovsky for encouraging me to post it!
 
 I wrote it when I thought mostly about startups; now I think mostly about AI development. I am struck by how much of it applies, particularly paragraphs 5-9.
-
-HTML | TXT
- link idea-generation.html HTML
- link idea-generation.txt TXT
-View source

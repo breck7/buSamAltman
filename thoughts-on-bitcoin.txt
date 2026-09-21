@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 December 1, 2013
 Thoughts on Bitcoin
 ===================
@@ -38,8 +33,3 @@ All of that said, there’s clearly something very interesting going on. And the
 Just as it’d be stupid to convert all your dollars to bitcoin, it’d be stupid to not pay attention. Specifically, watch legitimate transaction volume--I'd suggest only buying if it shows signs of seriously ramping up.
 
 Thanks to Patrick Collison and Lachy Groom for reading drafts of this.
-
-HTML | TXT
- link thoughts-on-bitcoin.html HTML
- link thoughts-on-bitcoin.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 6, 2013
 Premature optimization
 ======================
@@ -16,8 +11,3 @@ It’s dangerous to spend all your mental energy on incremental improvements whe
 It’s a useful exercise to think about whether or not all the optimization work (or ad buying, for that matter) you’re doing is worth it, even if it all works. It is usually not until you’re already quite successful. Until then, you should focus relentlessly on making a product your users love (and making sure you're going after a large enough market).
 
 Startups often ask me how to grow faster. I usually say “build a great product, and you will be able to make it grow”. The most sustainable (and cheapest) kind of growth is word-of-mouth growth.
-
-HTML | TXT
- link premature-optimization.html HTML
- link premature-optimization.txt TXT
-View source

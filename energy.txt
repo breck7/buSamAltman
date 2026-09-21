@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 29, 2015
 Energy
 ======
@@ -28,8 +23,3 @@ Both companies hope to have a test reactor operating in a few years, and both co
 I don’t think investors are doing nearly enough to fund atomic energy. With the exception of China, new fission development has effectively stopped and very few plants have been built in recent memory. Fission has been a remarkably safe and effective power source while generating 11% of the world’s electricity—the first time I saw the data on the safety data of fission energy relative to other power sources, I thought there was an error.
 
 On the fusion side, only about four US fusion companies have raised venture capital in the past few decades. The big government projects, like NIF and ITER, unfortunately have the feel of peacetime big government projects.
-
-HTML | TXT
- link energy.html HTML
- link energy.txt TXT
-View source

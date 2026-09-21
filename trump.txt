@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 20, 2016
 Trump
 =====
@@ -44,8 +39,3 @@ In the words of Edmund Burke, "The only thing necessary for the triumph of evil 
 Note: Anyone is welcome to republish this.
 
 Note 2: Apparently the Burke quote was not definitively said by him :(
-
-HTML | TXT
- link trump.html HTML
- link trump.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 November 13, 2014
 A new team at reddit
 ====================
@@ -22,8 +17,3 @@ There is a long history of founders returning to companies and doing great thing
 Dan McComas will become SVP Product. Dan founded redditgifts, where in addition to building a great product he built a great culture, and has already been an integral part of the reddit team—I look forward to seeing him impact the company more broadly.
 
 Although my 8 days as the CEO of reddit have been sort of fun, I am happy they are coming to a close and I am sure the new team will do a far better job and take reddit to great heights. It’s interesting to note that during my very brief tenure, reddit added more users than Hacker News has in total.
-
-HTML | TXT
- link a-new-team-at-reddit.html HTML
- link a-new-team-at-reddit.txt TXT
-View source

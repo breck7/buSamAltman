@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 January 15, 2016
 Before Growth
 =============
@@ -20,8 +15,3 @@ The very best technology companies sometimes take awhile to figure out exactly w
 As a side note, startups that don’t first figure out a product some users love also seem to rarely develop the sense of mission that the best companies have.
 
 [1] The other thing that these companies have, and that also usually gets figured out early, is some sort of a monopoly.
-
-HTML | TXT
- link before-growth.html HTML
- link before-growth.txt TXT
-View source

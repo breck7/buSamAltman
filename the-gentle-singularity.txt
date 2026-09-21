@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 June 10, 2025
 The Gentle Singularity
 ======================
@@ -60,8 +55,3 @@ OpenAI is a lot of things now, but before anything else, we are a superintellige
 Intelligence too cheap to meter is well within grasp. This may sound crazy to say, but if we told you back in 2020 we were going to be where we are today, it probably sounded more crazy than our current predictions about 2030.
 
 May we scale smoothly, exponentially and uneventfully through superintelligence.
-
-HTML | TXT
- link the-gentle-singularity.html HTML
- link the-gentle-singularity.txt TXT
-View source

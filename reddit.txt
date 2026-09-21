@@ -1,8 +1,3 @@
-Skip to content
- https://busamaltman.breck.lol/#main Skip to content
-
-← All writing
- https://busamaltman.breck.lol/index.html#archive ← All writing
 September 30, 2014
 reddit
 ======
@@ -22,8 +17,3 @@ First, it’s always bothered me that users create so much of the value of sites
 Second, I’m giving the company a proxy on my Series B shares. reddit will have voting control of the class and thus pretty significant protection against investors screwing it up by forcing an acquisition or blocking a future fundraise or whatever.
 
 Yishan Wong has a big vision for what reddit can be. I’m excited to watch it play out. I believe we are still in the early days of importance of online communities, and that reddit will be among the great ones.
-
-HTML | TXT
- link reddit.html HTML
- link reddit.txt TXT
-View source
