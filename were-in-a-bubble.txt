@@ -1,0 +1,48 @@
+Skip to content
+ /#main Skip to content
+
+← All writing
+ /index.html#archive ← All writing
+June 15, 2016
+&#x27;We&#x27;re in a Bubble&#x27;
+==================================
+
+A lot of people have been saying we’re in a tech bubble for quite some time. Someday they’ll be right, but in the meantime, I thought it'd be fun to look back at some articles from the last 10 years:
+
+2007, Coding Horror -- Welcome to Dot-Com Bubble 2.0. “You might argue that the new bubble has been in effect since mid-2006, but the signs are absolutely unmistakable now.”
+ https://blog.codinghorror.com/welcome-to-dot-com-bubble-20/ Welcome to Dot-Com Bubble 2.0
+
+2008, Gigaom -- Is Linkedin worth $1B? “The valuation of $1 billion – not as insane as the [$15 billion] valuation placed by Microsoft on Facebook – was jaw dropping.”
+ https://gigaom.com/2008/06/17/is-linkedin-worth-1-billion/ Is Linkedin worth $1B?
+
+2009, Wall Street Journal -- The Bursting of the Silicon Valley Bubble (2009 Edition). “Some think that this round of Silicon Valley blowups might be more damaging than the last.”
+ http://blogs.wsj.com/independentstreet/2009/02/12/the-bursting-of-the-silicon-valley-bubble-2009-edition/ The Bursting of the Silicon Valley Bubble (2009 Edition)
+
+2010, Daily Beast -- Facebook's $56 Billion Valuation and More Signs of the Tech Apocalypse. “One analyst predicts Facebook will easily be worth $200 billion by 2015. Right on! And by 2020 it could be the first company with a $1 zillion market value, so buy-buy-buy, everybody!”
+ http://www.thedailybeast.com/articles/2010/12/17/facebooks-56-billion-valuation-and-more-signs-of-the-tech-apocalypse.html Facebook's $56 Billion Valuation and More Signs of the Tech Apocalypse
+
+and, famously, Signal v. Noise, Facebook is not worth $33,000,000,000. "But the bullshit monopoly-money valuation merry-go-round has to stop."
+ https://signalvnoise.com/posts/2585-facebook-is-not-worth-33000000000 Facebook is not worth $33,000,000,000
+
+2011, The Economist -- The New Tech Bubble (cover story). “Some time after the dotcom boom turned into a spectacular bust in 2000, bumper stickers began appearing in Silicon Valley imploring: ‘Please God, just one more bubble.’ That wish has now been granted.”
+ http://www.economist.com/node/18681576 The New Tech Bubble
+ http://www.economist.com/printedition/2011-05-14 cover story
+
+2012, The Guardian -- Facebook’s IPO and the new tech bubble. “So yes, the collapse is beginning even as the bubble is filling. Some of us call this fun.”
+ http://www.theguardian.com/commentisfree/cifamerica/2012/may/18/facebook-ipo-new-tech-bubble Facebook’s IPO and the new tech bubble
+
+2013, Gawker / ValleyWag -- The $4 Billion Secret: Don’t Bother Making any Money. “[Pinterest and Snapchat] were both recently, insanely valued by investors at around $4 billion . . . how is this not a bubble, and why aren't more people saying this is crazy?”
+ http://valleywag.gawker.com/the-4-billion-secret-dont-bother-making-any-money-1456386490 The $4 Billion Secret: Don’t Bother Making any Money
+
+2014, Wall Street Journal -- David Einhorn: ‘We Are Witnessing Our Second Tech Bubble in 15 Years’. “ ‘There is a clear consensus that we are witnessing our second tech bubble in 15 years,’ said Mr. Einhorn.”
+ http://blogs.wsj.com/moneybeat/2014/04/22/david-einhorn-we-are-witnessing-our-second-tech-bubble-in-15-years/ David Einhorn: ‘We Are Witnessing Our Second Tech Bubble in 15 Years’
+
+2015, TechCrunch -- The Tech Industry is in Denial, but the Bubble is About to Burst. “The fact that we are in a tech bubble is in no doubt. . . The tech startup space at the moment resembles the story of the emperor with no clothes.”
+ http://techcrunch.com/2015/06/26/the-tech-industry-is-in-denial-but-the-bubble-is-about-to-burst/ The Tech Industry is in Denial, but the Bubble is About to Burst
+
+2016 -- And now Trump thinks we’re in a tech bubble too, so maybe it’s true.
+ http://www.reuters.com/article/us-usa-election-trump-excerpts-idUSKCN0Y82OJ Trump thinks we’re in a tech bubble too
+
+HTML | TXT
+ link were-in-a-bubble.html HTML
+ link were-in-a-bubble.txt TXT

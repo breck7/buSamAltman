@@ -1,0 +1,94 @@
+importOnly
+
+h1 buSamAltman
+
+A third backup for personal training, built as a local, static archive of Sam Altman's blog, downloaded September 21, 2026. All 121 posts from all 13 archive pages are included, with original titles, publication dates, and post slugs. Dates are rendered in UTC.
+ https://blog.samaltman.com/ Sam Altman's blog
+ bold 121 posts
+ bold 13 archive pages
+
+Open index.html directly, or run npm run serve and visit http://localhost:8000. No server is required for search: Scroll embeds the post text in the generated search page.
+ code index.html
+ code npm run serve
+
+h2 Build
+
+With Scroll installed:
+
+code
+ scroll build
+ scroll test
+
+Or install the pinned compiler first with npm install. Node.js 24 or newer is required.
+ code npm install
+
+readme.scroll explicitly sets permalink index.html. Every post is an individual, editable .scroll file with a matching .html permalink. Prose uses bare catchall paragraphs, native lists, aftertext links and emphasis, and child addClass directives. Posts are flat Scroll documents: metadata, post-header.scroll, bare paragraphs and aftertext, then footer.scroll. Shared includes handle presentation; post bodies have no HTML layout trees. Native image paths, list markers, and quote markers express the few structural exceptions. Explicit p is reserved for the few literal numbered or URL-only paragraphs that would otherwise trigger another parser. The shared head.scroll, footer.scroll, style.css, and site.js provide the layout and behavior. blog.parsers fixes a Scroll 180 linkify-directive issue and supplies a few missing semantic elements, attributes, and superscript/subscript directives without modifying the installed compiler.
+ code readme.scroll
+ code permalink index.html
+ code .scroll
+ code .html
+ code addClass
+ code p
+ code head.scroll
+ code footer.scroll
+ code style.css
+ code site.js
+ code blog.parsers
+
+h2 Design
+
+Warm paper, forest-green accents, system fonts, a narrow reading column, a chronological archive, full-text search, reading times, previous/next keyboard navigation, print styles, keyboard focus indicators, and a skip link. Press / to filter archive titles and Escape to clear. The header’s Search link opens full-text search. The entire archive remains navigable without JavaScript.
+ code /
+
+h2 Reimport and verify
+
+The original HTML is retained in originals/. Reimporting overwrites the imported Scroll posts, so use this only when intentionally refreshing the imported snapshot; ordinary editing requires only scroll build.
+ bold overwrites the imported Scroll posts
+ code originals/
+ code scroll build
+
+code
+ python3 -m venv .venv
+ .venv/bin/pip install -r requirements.txt
+ .venv/bin/python scripts/import_blog.py             # from saved originals
+ .venv/bin/python scripts/import_blog.py --download --media  # refresh from the blog
+ scroll build
+ scroll test
+ .venv/bin/python scripts/verify.py
+
+The importer discovers pagination until the last page. archive.json records provenance and metadata. Full-text search follows breck.lol: search.scroll uses posts Posts, printTable, and tableSearch. The common post footer supplies tags Posts. Running scroll build refreshes the searchable text from the current Scroll files; there is no separate JSON search index or custom full-text search implementation. The homepage retains its lightweight title filter.
+ code archive.json
+ code search.scroll
+ code posts Posts
+ code printTable
+ code tableSearch
+ code tags Posts
+ code scroll build
+
+h2 Source details
+
+- All available article images are saved under assets/ (23 of 24). The original Google-hosted image in Affordable Care returns HTTP 404; its location is preserved and the article shows an unavailable-image notice.
+ bold Affordable Care
+ code assets/
+- The Scribd embed in Uber vs Car Ownership is preserved as an external document link, avoiding dependence on the original third-party script.
+ bold Uber vs Car Ownership
+- Cross-links to imported posts point to local .html pages. Each article has HTML and TXT format links. Canonical URLs point back to the original blog.
+ code .html
+- Comments, voting, newsletter forms, and Posthaven interface elements are not part of the article content and are omitted.
+- Sam's post titled - retains that exact title. Post text is not rewritten. The backup name and description are additions for this archive.
+ code -
+
+The writing and original media belong to their respective authors. This demo has not been published.
+
+Posts inherit Scroll’s native keyboardNav from footer.scroll; individual posts contain no navigation directive or hardcoded keyboard destinations. Scroll determines the neighboring posts automatically. The homepage imports homeFooter.scroll, which contains the shared visual footer but no keyboard navigation.
+ code keyboardNav
+ code footer.scroll
+ code homeFooter.scroll
+
+Scroll 180 mixes date indexes with filename order when resolving keyboard neighbors. blogKeyboardNavParser in blog.parsers supplies chronologically ordered neighbors to the built-in handler. Left goes older, right goes newer, and navigation wraps at the ends, following Scroll’s native convention.
+ code blogKeyboardNavParser
+ code blog.parsers
+
+The common footer supplies buildHtml and buildTxt. Flat post content works with the native plain-text exporter and full-text search without layout adapters.
+
+The homepage uses postsMeta Posts, orderBy -year -date, and printArchive to render current post metadata grouped by year. No post titles, links, counts or year groups are maintained in readme.scroll or generated by the importer.

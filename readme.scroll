@@ -1,0 +1,44 @@
+title buSamAltman — Archive
+description A 3rd backup of Sam Altman’s blog for personal training.
+permalink index.html
+canonicalUrl https://blog.samaltman.com/
+buildHtml
+head.scroll
+
+container 1120px
+ id main
+ role main
+ addClass archive
+
+A 3rd backup of Sam Altman’s blog for personal training.
+ addClass archive-intro
+
+# All posts
+ id archive-heading
+
+label
+ addClass search
+ input
+  id search
+  type search
+  aria-label Filter titles
+  placeholder Filter titles…
+  autocomplete off
+ kbd /
+
+div
+ id search-status
+ addClass search-status
+ aria-live polite
+
+postsMeta Posts
+ orderBy -year -date
+  printArchive
+
+div
+ id empty
+ aria-live polite
+
+clearStack
+homeFooter.scroll
+site.js

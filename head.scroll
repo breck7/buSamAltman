@@ -1,0 +1,27 @@
+importOnly
+blog.parsers
+inlineMarkups
+ *
+ _
+ `
+metaTags
+favicon favicon.svg
+style.css
+
+Skip to content
+ link #main
+ addClass skip-link
+
+header
+ addClass site-header
+ div
+  addClass site-identity
+  buSamAltman
+   index.html
+   addClass wordmark
+ nav
+  aria-label Main navigation
+  Search
+   search.html
+  Original blog ↗
+   originalLink
