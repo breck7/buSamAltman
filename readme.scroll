@@ -1,0 +1,1719 @@
+title buSamAltman — Archive
+description A 3rd backup of Sam Altman’s blog for personal training.
+permalink index.html
+canonicalUrl https://blog.samaltman.com/
+buildHtml
+head.scroll
+
+main
+ id main
+ section
+  id archive
+  addClass archive
+  aria-labelledby archive-heading
+  div
+   addClass archive-intro
+   span A 3rd backup of Sam Altman’s blog for personal training.
+   span 2013 — 2026
+  div
+   addClass archive-heading
+   div
+    h1 All posts
+     id archive-heading
+     span 121
+      addClass count
+   div
+    addClass archive-controls
+    label
+     addClass search
+     span ⌕
+      aria-hidden true
+     input
+      id search
+      type search
+      aria-label Filter titles
+      placeholder Filter titles…
+      autocomplete off
+     kbd /
+  div
+   id search-status
+   addClass search-status
+   aria-live polite
+  section
+   addClass year-group
+   data-year 2026
+   aria-label Writing from 2026
+   h3 2026
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href 2279512.html
+     data-slug 2279512
+     time Apr 10
+      datetime 2026-04-10
+     span -
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2025
+   aria-label Writing from 2025
+   h3 2025
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href sora-update-number-1.html
+     data-slug sora-update-number-1
+     time Oct 04
+      datetime 2025-10-04
+     span Sora update #1
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href sora-2.html
+     data-slug sora-2
+     time Sep 30
+      datetime 2025-09-30
+     span Sora 2
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href abundant-intelligence.html
+     data-slug abundant-intelligence
+     time Sep 23
+      datetime 2025-09-23
+     span Abundant Intelligence
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href jakub-and-szymon.html
+     data-slug jakub-and-szymon
+     time Sep 09
+      datetime 2025-09-09
+     span Jakub and Szymon
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-gentle-singularity.html
+     data-slug the-gentle-singularity
+     time Jun 10
+      datetime 2025-06-10
+     span The Gentle Singularity
+      addClass post-title
+     span 8 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href three-observations.html
+     data-slug three-observations
+     time Feb 09
+      datetime 2025-02-09
+     span Three Observations
+      addClass post-title
+     span 6 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href reflections.html
+     data-slug reflections
+     time Jan 06
+      datetime 2025-01-06
+     span Reflections
+      addClass post-title
+     span 9 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2024
+   aria-label Writing from 2024
+   h3 2024
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href gpt-4o.html
+     data-slug gpt-4o
+     time May 13
+      datetime 2024-05-13
+     span GPT-4o
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2023
+   aria-label Writing from 2023
+   h3 2023
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href what-i-wish-someone-had-told-me.html
+     data-slug what-i-wish-someone-had-told-me
+     time Dec 21
+      datetime 2023-12-21
+     span What I Wish Someone Had Told Me
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2022
+   aria-label Writing from 2022
+   h3 2022
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href helion-needs-you.html
+     data-slug helion-needs-you
+     time Jul 13
+      datetime 2022-07-13
+     span Helion Needs You
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href dall-star-e-2.html
+     data-slug dall-star-e-2
+     time Apr 06
+      datetime 2022-04-06
+     span DALL•E 2
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2021
+   aria-label Writing from 2021
+   h3 2021
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href helion.html
+     data-slug helion
+     time Nov 05
+      datetime 2021-11-05
+     span Helion
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2020
+   aria-label Writing from 2020
+   h3 2020
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href the-strength-of-being-misunderstood.html
+     data-slug the-strength-of-being-misunderstood
+     time Dec 01
+      datetime 2020-12-01
+     span The Strength of Being Misunderstood
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href pg-and-jessica.html
+     data-slug pg-and-jessica
+     time Sep 25
+      datetime 2020-09-25
+     span PG and Jessica
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href researchers-and-founders.html
+     data-slug researchers-and-founders
+     time Jun 19
+      datetime 2020-06-19
+     span Researchers and Founders
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href project-covalence.html
+     data-slug project-covalence
+     time Jun 16
+      datetime 2020-06-16
+     span Project Covalence
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href idea-generation.html
+     data-slug idea-generation
+     time May 28
+      datetime 2020-05-28
+     span Idea Generation
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href please-fund-more-science.html
+     data-slug please-fund-more-science
+     time Mar 30
+      datetime 2020-03-30
+     span Please Fund More Science
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href funding-for-covid-19-projects.html
+     data-slug funding-for-covid-19-projects
+     time Mar 15
+      datetime 2020-03-15
+     span Funding for COVID-19 Projects
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-virus.html
+     data-slug the-virus
+     time Mar 07
+      datetime 2020-03-07
+     span The Virus
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href hard-startups.html
+     data-slug hard-startups
+     time Feb 26
+      datetime 2020-02-26
+     span Hard Startups
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href how-to-invest-in-startups.html
+     data-slug how-to-invest-in-startups
+     time Jan 13
+      datetime 2020-01-13
+     span How To Invest In Startups
+      addClass post-title
+     span 9 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2019
+   aria-label Writing from 2019
+   h3 2019
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href how-to-be-successful.html
+     data-slug how-to-be-successful
+     time Jan 24
+      datetime 2019-01-24
+     span How To Be Successful
+      addClass post-title
+     span 15 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2018
+   aria-label Writing from 2018
+   h3 2018
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href reinforcement-learning-progress.html
+     data-slug reinforcement-learning-progress
+     time Jun 25
+      datetime 2018-06-25
+     span Reinforcement Learning Progress
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href us-digital-currency.html
+     data-slug us-digital-currency
+     time May 10
+      datetime 2018-05-10
+     span US Digital Currency
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href productivity.html
+     data-slug productivity
+     time Apr 10
+      datetime 2018-04-10
+     span Productivity
+      addClass post-title
+     span 10 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2017
+   aria-label Writing from 2017
+   h3 2017
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href a-clarification.html
+     data-slug a-clarification
+     time Dec 16
+      datetime 2017-12-16
+     span A Clarification
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href e-pur-si-muove.html
+     data-slug e-pur-si-muove
+     time Dec 14
+      datetime 2017-12-14
+     span E Pur Si Muove
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-merge.html
+     data-slug the-merge
+     time Dec 07
+      datetime 2017-12-07
+     span The Merge
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href american-equity.html
+     data-slug american-equity
+     time Nov 27
+      datetime 2017-11-27
+     span American Equity
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-united-slate.html
+     data-slug the-united-slate
+     time Jul 12
+      datetime 2017-07-12
+     span The United Slate
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href join-the-yc-software-team.html
+     data-slug join-the-yc-software-team
+     time May 19
+      datetime 2017-05-19
+     span Join the YC Software Team
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href quora.html
+     data-slug quora
+     time Apr 21
+      datetime 2017-04-21
+     span Quora
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href tech-workers-values.html
+     data-slug tech-workers-values
+     time Mar 31
+      datetime 2017-03-31
+     span Tech Workers' Values
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href keep-the-internet-open.html
+     data-slug keep-the-internet-open
+     time Mar 14
+      datetime 2017-03-14
+     span Keep the Internet Open
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href greg.html
+     data-slug greg
+     time Mar 07
+      datetime 2017-03-07
+     span Greg
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href what-i-heard-from-trump-supporters.html
+     data-slug what-i-heard-from-trump-supporters
+     time Feb 21
+      datetime 2017-02-21
+     span What I Heard From Trump Supporters
+      addClass post-title
+     span 10 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href 2017-yc-annual-letter.html
+     data-slug 2017-yc-annual-letter
+     time Feb 16
+      datetime 2017-02-16
+     span 2017 YC Annual Letter
+      addClass post-title
+     span 14 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href time-to-take-a-stand.html
+     data-slug time-to-take-a-stand
+     time Jan 28
+      datetime 2017-01-28
+     span Time to Take a Stand
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href affordable-care.html
+     data-slug affordable-care
+     time Jan 13
+      datetime 2017-01-13
+     span Affordable Care
+      addClass post-title
+     span 10 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2016
+   aria-label Writing from 2016
+   h3 2016
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href the-2016-election.html
+     data-slug the-2016-election
+     time Oct 17
+      datetime 2016-10-17
+     span The 2016 Election
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href 1-dollars-million-voteplz-sweepstakes.html
+     data-slug 1-dollars-million-voteplz-sweepstakes
+     time Sep 26
+      datetime 2016-09-26
+     span $1 Million VotePlz Sweepstakes
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href dont-read-the-comments.html
+     data-slug dont-read-the-comments
+     time Aug 23
+      datetime 2016-08-23
+     span Don't Read The Comments
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href trump.html
+     data-slug trump
+     time Jun 20
+      datetime 2016-06-20
+     span Trump
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href were-in-a-bubble.html
+     data-slug were-in-a-bubble
+     time Jun 15
+      datetime 2016-06-15
+     span 'We're in a Bubble'
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href housing-in-the-bay-area.html
+     data-slug housing-in-the-bay-area
+     time May 26
+      datetime 2016-05-26
+     span Housing in the Bay Area
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href cruise.html
+     data-slug cruise
+     time Apr 13
+      datetime 2016-04-13
+     span Cruise
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href asana.html
+     data-slug asana
+     time Mar 30
+      datetime 2016-03-30
+     span Asana
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href hard-tech-is-back.html
+     data-slug hard-tech-is-back
+     time Mar 11
+      datetime 2016-03-11
+     span Hard Tech is Back
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href before-growth.html
+     data-slug before-growth
+     time Jan 15
+      datetime 2016-01-15
+     span Before Growth
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2015
+   aria-label Writing from 2015
+   h3 2015
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href the-tech-bust-of-2015.html
+     data-slug the-tech-bust-of-2015
+     time Nov 02
+      datetime 2015-11-02
+     span The Tech Bust of 2015
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href airbnb-and-san-francisco.html
+     data-slug airbnb-and-san-francisco
+     time Sep 28
+      datetime 2015-09-28
+     span Airbnb and San Francisco
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href unit-economics.html
+     data-slug unit-economics
+     time Sep 21
+      datetime 2015-09-21
+     span Unit Economics
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href financial-misstatements.html
+     data-slug financial-misstatements
+     time Aug 21
+      datetime 2015-08-21
+     span Financial Misstatements
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-post-yc-slump.html
+     data-slug the-post-yc-slump
+     time Aug 20
+      datetime 2015-08-20
+     span The Post-YC Slump
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-us-digital-service.html
+     data-slug the-us-digital-service
+     time Aug 14
+      datetime 2015-08-14
+     span The U.S. Digital Service
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href projects-and-companies.html
+     data-slug projects-and-companies
+     time Aug 12
+      datetime 2015-08-12
+     span Projects and Companies
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href energy.html
+     data-slug energy
+     time Jun 29
+      datetime 2015-06-29
+     span Energy
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-days-are-long-but-the-decades-are-short.html
+     data-slug the-days-are-long-but-the-decades-are-short
+     time Apr 28
+      datetime 2015-04-28
+     span The days are long but the decades are short
+      addClass post-title
+     span 6 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href bubble-talk.html
+     data-slug bubble-talk
+     time Mar 24
+      datetime 2015-03-24
+     span Bubble talk
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href technology-predictions.html
+     data-slug technology-predictions
+     time Mar 03
+      datetime 2015-03-03
+     span Technology predictions
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href machine-intelligence-part-2.html
+     data-slug machine-intelligence-part-2
+     time Mar 02
+      datetime 2015-03-02
+     span Machine intelligence, part 2
+      addClass post-title
+     span 6 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href machine-intelligence-part-1.html
+     data-slug machine-intelligence-part-1
+     time Feb 25
+      datetime 2015-02-25
+     span Machine intelligence, part 1
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href startup-advice-briefly.html
+     data-slug startup-advice-briefly
+     time Feb 20
+      datetime 2015-02-20
+     span Startup advice, briefly
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-software-revolution.html
+     data-slug the-software-revolution
+     time Feb 16
+      datetime 2015-02-16
+     span The Software Revolution
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href china.html
+     data-slug china
+     time Feb 11
+      datetime 2015-02-11
+     span China
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href farmlogs.html
+     data-slug farmlogs
+     time Feb 10
+      datetime 2015-02-10
+     span FarmLogs
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href policy-for-growth-and-innovation.html
+     data-slug policy-for-growth-and-innovation
+     time Jan 14
+      datetime 2015-01-14
+     span Policy for Growth and Innovation
+      addClass post-title
+     span 9 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2014
+   aria-label Writing from 2014
+   h3 2014
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href a-new-team-at-reddit.html
+     data-slug a-new-team-at-reddit
+     time Nov 13
+      datetime 2014-11-13
+     span A new team at reddit
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href a-question.html
+     data-slug a-question
+     time Nov 12
+      datetime 2014-11-12
+     span A Question
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href board-members.html
+     data-slug board-members
+     time Nov 11
+      datetime 2014-11-11
+     span Board Members
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href why-silicon-valley-works.html
+     data-slug why-silicon-valley-works
+     time Nov 03
+      datetime 2014-11-03
+     span Why Silicon Valley Works
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href reddit.html
+     data-slug reddit
+     time Sep 30
+      datetime 2014-09-30
+     span reddit
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href applying-to-yc.html
+     data-slug applying-to-yc
+     time Sep 15
+      datetime 2014-09-15
+     span Applying to YC
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href stupid-apps-and-changing-the-world.html
+     data-slug stupid-apps-and-changing-the-world
+     time Aug 07
+      datetime 2014-08-07
+     span Stupid Apps and Changing the World
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href uber-vs-car-ownership.html
+     data-slug uber-vs-car-ownership
+     time Jul 29
+      datetime 2014-07-29
+     span Uber vs Car Ownership
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href black-swan-seed-rounds.html
+     data-slug black-swan-seed-rounds
+     time Jul 28
+      datetime 2014-07-28
+     span Black Swan Seed Rounds
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href net-neutrality.html
+     data-slug net-neutrality
+     time Jul 14
+      datetime 2014-07-14
+     span Net neutrality
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-economy.html
+     data-slug the-economy
+     time Jun 30
+      datetime 2014-06-30
+     span The Economy
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href you-and-your-research.html
+     data-slug you-and-your-research
+     time Jun 29
+      datetime 2014-06-29
+     span You and Your Research, by Richard Hamming
+      addClass post-title
+     span 58 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href valuations.html
+     data-slug valuations
+     time Jun 20
+      datetime 2014-06-20
+     span Valuations
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href founder-depression.html
+     data-slug founder-depression
+     time Jun 13
+      datetime 2014-06-13
+     span Founder Depression
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href bitcoin-price-pressure.html
+     data-slug bitcoin-price-pressure
+     time Apr 30
+      datetime 2014-04-30
+     span Bitcoin Price Pressure
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href employee-equity.html
+     data-slug employee-equity
+     time Apr 18
+      datetime 2014-04-18
+     span Employee Equity
+      addClass post-title
+     span 8 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-worst-part-of-yc.html
+     data-slug the-worst-part-of-yc
+     time Apr 16
+      datetime 2014-04-16
+     span The Worst Part of YC
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href startups-role-models-risk-and-y-combinator.html
+     data-slug startups-role-models-risk-and-y-combinator
+     time Mar 25
+      datetime 2014-03-25
+     span Startups, Role Models, Risk, and Y Combinator
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href what-ive-learned-from-female-founders-so-far.html
+     data-slug what-ive-learned-from-female-founders-so-far
+     time Mar 21
+      datetime 2014-03-21
+     span What I've Learned From Female Founders So Far
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href new-rfs-breakthrough-technologies.html
+     data-slug new-rfs-breakthrough-technologies
+     time Mar 19
+      datetime 2014-03-19
+     span New RFS -- Breakthrough Technologies
+      addClass post-title
+     span 6 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-founder-visa-again.html
+     data-slug the-founder-visa-again
+     time Mar 17
+      datetime 2014-03-17
+     span The Founder Visa (again)
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href fundraising-mistakes-founder-make.html
+     data-slug fundraising-mistakes-founder-make
+     time Feb 20
+      datetime 2014-02-20
+     span Fundraising Mistakes Founders Make
+      addClass post-title
+     span 8 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href ai.html
+     data-slug ai
+     time Feb 19
+      datetime 2014-02-19
+     span AI
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-engineer-crunch.html
+     data-slug the-engineer-crunch
+     time Feb 18
+      datetime 2014-02-18
+     span The Engineer Crunch
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href anonymity.html
+     data-slug anonymity
+     time Feb 10
+      datetime 2014-02-10
+     span Anonymity
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href technology-and-wealth-inequality.html
+     data-slug technology-and-wealth-inequality
+     time Jan 28
+      datetime 2014-01-28
+     span Technology and wealth inequality
+      addClass post-title
+     span 7 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href value-is-created-by-doing.html
+     data-slug value-is-created-by-doing
+     time Jan 16
+      datetime 2014-01-16
+     span Value is created by doing
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href super-successful-companies.html
+     data-slug super-successful-companies
+     time Jan 15
+      datetime 2014-01-15
+     span Super successful companies
+      addClass post-title
+     span 6 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  section
+   addClass year-group
+   data-year 2013
+   aria-label Writing from 2013
+   h3 2013
+   div
+    addClass year-posts
+    a
+     addClass post-row
+     href h5n1.html
+     data-slug h5n1
+     time Dec 11
+      datetime 2013-12-11
+     span H5N1
+      addClass post-title
+     span 4 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href employee-retention.html
+     data-slug employee-retention
+     time Dec 09
+      datetime 2013-12-09
+     span Employee Retention
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-only-way-to-grow-huge.html
+     data-slug the-only-way-to-grow-huge
+     time Dec 03
+      datetime 2013-12-03
+     span The Only Way to Grow Huge
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href thoughts-on-bitcoin.html
+     data-slug thoughts-on-bitcoin
+     time Dec 01
+      datetime 2013-12-01
+     span Thoughts on Bitcoin
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href non-technical-founder-learn-to-hack.html
+     data-slug non-technical-founder-learn-to-hack
+     time Oct 31
+      datetime 2013-10-31
+     span Non-technical founder? Learn to hack
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href the-separation-of-advice-and-money.html
+     data-slug the-separation-of-advice-and-money
+     time Oct 08
+      datetime 2013-10-08
+     span The separation of advice and money
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href what-to-do-if-a-bubble-is-starting.html
+     data-slug what-to-do-if-a-bubble-is-starting
+     time Sep 24
+      datetime 2013-09-24
+     span What to do if a bubble is starting
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href how-to-hire.html
+     data-slug how-to-hire
+     time Sep 23
+      datetime 2013-09-23
+     span How to hire
+      addClass post-title
+     span 12 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href electrons-and-atoms.html
+     data-slug electrons-and-atoms
+     time Aug 28
+      datetime 2013-08-28
+     span Electrons and Atoms
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href how-things-get-done.html
+     data-slug how-things-get-done
+     time Jul 17
+      datetime 2013-07-17
+     span How things get done
+      addClass post-title
+     span 3 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href advice-for-ambitious-19-year-olds.html
+     data-slug advice-for-ambitious-19-year-olds
+     time Jun 24
+      datetime 2013-06-24
+     span Advice for ambitious 19 year olds
+      addClass post-title
+     span 5 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href what-happened-to-innovation-1.html
+     data-slug what-happened-to-innovation-1
+     time Jun 20
+      datetime 2013-06-20
+     span What happened to innovation?
+      addClass post-title
+     span 10 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href premature-optimization.html
+     data-slug premature-optimization
+     time Jun 06
+      datetime 2013-06-06
+     span Premature optimization
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href party-rounds.html
+     data-slug party-rounds
+     time Jun 05
+      datetime 2013-06-05
+     span Party rounds
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href rickover.html
+     data-slug rickover
+     time Jun 04
+      datetime 2013-06-04
+     span Rickover
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href a-founder-friendly-term-sheet.html
+     data-slug a-founder-friendly-term-sheet
+     time Jun 04
+      datetime 2013-06-04
+     span A founder-friendly term sheet
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href startup-advice.html
+     data-slug startup-advice
+     time Jun 03
+      datetime 2013-06-03
+     span Startup Advice
+      addClass post-title
+     span 7 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href by-endurance-we-conquer.html
+     data-slug by-endurance-we-conquer
+     time Mar 28
+      datetime 2013-03-28
+     span By endurance we conquer
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href upside-risk.html
+     data-slug upside-risk
+     time Mar 25
+      datetime 2013-03-25
+     span Upside risk
+      addClass post-title
+     span 2 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href software-to-avoid-the-software-people.html
+     data-slug software-to-avoid-the-software-people
+     time Mar 18
+      datetime 2013-03-18
+     span Software to avoid the software people
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href more-interesting-dinner-conversations.html
+     data-slug more-interesting-dinner-conversations
+     time Mar 11
+      datetime 2013-03-11
+     span More interesting dinner conversations
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href aliens.html
+     data-slug aliens
+     time Mar 11
+      datetime 2013-03-11
+     span Aliens
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href successful-people.html
+     data-slug successful-people
+     time Mar 08
+      datetime 2013-03-08
+     span Successful people
+      addClass post-title
+     span 1 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+    a
+     addClass post-row
+     href growth-and-government.html
+     data-slug growth-and-government
+     time Mar 05
+      datetime 2013-03-05
+     span Growth and Government
+      addClass post-title
+     span 10 min
+      addClass read-time
+     span ↗
+      addClass row-arrow
+      aria-hidden true
+  div
+   id empty
+   aria-live polite
+
+homeFooter.scroll
+
+site.js

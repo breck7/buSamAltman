@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.venv/
+__pycache__/
+*.html
+.*
+*.txt

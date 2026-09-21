@@ -1,0 +1,12 @@
+{
+  "name": "sam-altman-scroll-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sam Altman's blog, rebuilt as a complete Scroll archive.",
+  "scripts": {
+    "build": "scroll build",
+    "check": "scroll test",
+    "serve": "python3 -m http.server 8000"
+  },
+  "devDependencies": { "scroll": "180.0.1" }
+}

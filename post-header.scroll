@@ -1,0 +1,16 @@
+importOnly
+head.scroll
+
+container 720px
+ addClass article-header
+← All writing
+ index.html#archive
+ addClass back
+printDate
+printTitle
+clearStack
+
+container 720px
+ id main
+ role main
+ addClass prose

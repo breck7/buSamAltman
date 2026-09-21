@@ -1,0 +1,6 @@
+importOnly
+footer
+ addClass site-footer
+ span buSamAltman
+ Original blog ↗
+  https://blog.samaltman.com/
