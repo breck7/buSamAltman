@@ -11,8 +11,8 @@ metaTags
 favicon favicon.svg
 style.css
 
-Skip to content
- link #main
+a Skip to content
+ href #main
  addClass skip-link
 
 header

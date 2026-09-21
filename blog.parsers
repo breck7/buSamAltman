@@ -94,3 +94,21 @@ viewSourceParser
  extends editLinkParser
  cue viewSource
  string text View source
+ javascript
+  buildTxt() { return "" }
+
+// Format navigation belongs to the HTML interface, not the essay export.
+blogFormatLinksParser
+ extends printFormatLinksParser
+ cue printFormatLinks
+ javascript
+  buildTxt() { return "" }
+
+// The paragraph already contains the link's visible text. Keep aftertext
+// destinations out of TXT and native posts/search exports, especially local
+// backup URLs and footnote targets. HTML link generation stays inherited.
+blogTextLinkParser
+ extends scrollLinkParser
+ cue link
+ javascript
+  buildTxt() { return "" }
