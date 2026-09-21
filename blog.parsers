@@ -55,3 +55,27 @@ blogKeyboardNavParser
    if (position < 0 || !posts.length) return this.root.permalink
    return posts[(position + (index === 1 ? -1 : 1) + posts.length) % posts.length].permalink
   }
+
+// Presentation for Scroll's postsMeta table; discovery and ordering stay native.
+printArchiveParser
+ extends abstractTableVisualizationParser
+ cue printArchive
+ javascript
+  buildHtml() {
+   const groups = new Map()
+   for (const post of this.parent.coreTable) {
+    if (!groups.has(post.year)) groups.set(post.year, [])
+    groups.get(post.year).push(post)
+   }
+   const source = [...groups].map(([year, posts]) => {
+    const rows = posts.map(post => {
+     const date = this.root.dayjs(post.date).format("MMM DD")
+     return `  a\n   href ${post.permalink}\n   addClass post-row\n   time ${date}\n    datetime ${this.root.dayjs(post.date).format("YYYY-MM-DD")}\n   span ${post.title}\n    addClass post-title\n   span ${post.minutes} min\n    addClass read-time\n   span ↗\n    addClass row-arrow\n    aria-hidden true`
+    }).join("\n")
+    return `section\n addClass year-group\n data-year ${year}\n aria-label Writing from ${year}\n h3 ${year}\n div\n  addClass year-posts\n${rows}`
+   }).join("\n")
+   const particles = this.root.concat(source)
+   const html = particles.map(particle => particle.buildHtml()).join("\n")
+   particles.forEach(particle => particle.destroy())
+   return html
+  }

@@ -187,29 +187,6 @@ for i, post in enumerate(posts):
     source = f"title {esc(post['title'])}\ndescription {esc(post['text'][:160])}\ndate {post['date']}\ncanonicalUrl {post['url']}\n\npost-header.scroll\n\n{body_scroll(post['body'], slug)}\n\n{footer()}"
     (ROOT / post['scrollFile']).write_text(source)
 
-controls = element('div', attrs={'addClass': 'archive-controls'}, children=[
-    element('label', attrs={'addClass': 'search'}, children=[
-        element('span', '⌕', {'aria-hidden': 'true'}),
-        element('input', attrs={'id': 'search', 'type': 'search', 'aria-label': 'Filter titles', 'placeholder': 'Filter titles…', 'autocomplete': 'off'}),
-        element('kbd', '/')])])
-groups = []
-for year in sorted({p['year'] for p in posts}, reverse=True):
-    rows = [element('a', attrs={'addClass': 'post-row', 'href': post['slug'] + '.html', 'data-slug': post['slug']}, children=[
-        element('time', datetime.strptime(post['date'], '%Y-%m-%d').strftime('%b %d'), {'datetime': post['date']}),
-        element('span', post['title'], {'addClass': 'post-title'}),
-        element('span', f"{post['minutes']} min", {'addClass': 'read-time'}),
-        element('span', '↗', {'addClass': 'row-arrow', 'aria-hidden': 'true'})]) for post in posts if post['year'] == year]
-    groups.append(element('section', attrs={'addClass': 'year-group', 'data-year': year, 'aria-label': f'Writing from {year}'}, children=[element('h3', str(year)), element('div', attrs={'addClass': 'year-posts'}, children=rows)]))
-archive = element('section', attrs={'id': 'archive', 'addClass': 'archive', 'aria-labelledby': 'archive-heading'}, children=[
-    element('div', attrs={'addClass': 'archive-intro'}, children=[element('span', 'THE PERSONAL BLOG OF SAM ALTMAN'), element('span', f"2013 — {posts[0]['year']}")]),
-    element('div', attrs={'addClass': 'archive-heading'}, children=[
-        element('div', children=[element('span', 'THE ARCHIVE', {'addClass': 'eyebrow'}), element('h1', 'All writing', {'id': 'archive-heading'}, [element('span', str(len(posts)), {'addClass': 'count'})])]), controls]),
-    element('div', attrs={'id': 'search-status', 'addClass': 'search-status', 'aria-live': 'polite'}),
-    *groups, element('div', attrs={'id': 'empty', 'aria-live': 'polite'})])
-home = 'title buSamAltman — Archive\ndescription A 3rd backup of Sam Altman’s blog for personal training.\npermalink index.html\ncanonicalUrl https://blog.samaltman.com/\nbuildHtml\nhead.scroll\n\n'
-home += element('main', attrs={'id': 'main'}, children=[archive])
-home += '\n\nhomeFooter.scroll\n\nsite.js\n'
-(ROOT / 'readme.scroll').write_text(home)
 (ROOT / 'archive.json').write_text(json.dumps([{k: v for k, v in p.items() if k != 'body'} for p in posts], ensure_ascii=False, indent=2) + '\n')
 (ROOT / 'originals/media.json').write_text(json.dumps(assets, indent=2) + '\n')
 if args.media:
@@ -225,4 +202,4 @@ if args.media:
         failures = [error for error in pool.map(download, assets.items()) if error]
     (ROOT / 'originals/media-failures.json').write_text(json.dumps(failures, indent=2) + '\n')
     print('Media:', len(assets), 'images;', len(failures), 'failures')
-print('Converted', len(posts), 'posts; wrote readme.scroll → index.html')
+print('Converted', len(posts), 'posts; scroll build refreshes the archive from post metadata')

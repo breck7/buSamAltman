@@ -22,3 +22,5 @@
 @media(max-width:760px){.search-page{width:calc(100% - 44px)!important}.search-page .scrollTable{font-size:11px}.search-page th:first-child{width:35%}.search-page th:nth-child(2){width:75px}}
 
 .article-header,.prose{width:calc(100% - 44px)!important}.prose{padding-bottom:45px}.article-header .printDateParser{font:11px var(--sans);color:var(--muted)}
+
+.archive.scrollContainerParser{width:calc(100% - 112px)!important}.archive>h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px}.archive>.search{margin:0 0 25px auto}@media(max-width:760px){.archive.scrollContainerParser{width:calc(100% - 44px)!important}}
