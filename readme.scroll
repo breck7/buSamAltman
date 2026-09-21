@@ -28,6 +28,20 @@ div
  addClass search-status
  aria-live polite
 
+div
+ addClass archive-columns
+ button Date ↓
+  type button
+  data-sort date
+  aria-label Sort by date, oldest first
+ span Title
+ button Duration ↕
+  type button
+  data-sort duration
+  aria-label Sort by duration, shortest first
+ span
+  aria-hidden true
+
 postsMeta Posts
  orderBy -year -date
   printArchive
