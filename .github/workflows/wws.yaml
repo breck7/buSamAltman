@@ -27,7 +27,7 @@ jobs:
           scroll test
           scroll list | scroll build
           mkdir -p _site
-          cp *.html CNAME _site/
+          cp *.* CNAME _site/
           touch _site/.nojekyll
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
