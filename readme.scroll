@@ -10,7 +10,7 @@ container 1120px
  role main
  addClass archive
 
-# All posts
+# All posts: 2013 - 2026
  id archive-heading
 
 label
