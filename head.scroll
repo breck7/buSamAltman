@@ -1,8 +1,8 @@
 importOnly
-baseUrl https://busamaltman.breck.lol/
-openGraphImage busamaltman-poster.jpg
+baseUrl https://busam.breck.lol/
+openGraphImage busam-poster.jpg
 blog.parsers
-editBaseUrl https://github.com/breck7/busamaltman/blob/main/
+editBaseUrl https://github.com/breck7/busam/blob/main/
 inlineMarkups
  *
  _
@@ -19,7 +19,7 @@ header
  addClass site-header
  div
   addClass site-identity
-  buSamAltman
+  busam
    index.html
    addClass wordmark
   this 3rd party backup made by @breckyunits

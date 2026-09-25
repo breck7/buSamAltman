@@ -1,6 +1,6 @@
 importOnly
 
-h1 buSamAltman
+h1 busam
 
 A third backup for personal training, built as a local, static archive of Sam Altman's blog, downloaded September 21, 2026. All 121 posts from all 13 archive pages are included, with original titles, publication dates, and post slugs. Dates are rendered in UTC.
  https://blog.samaltman.com/ Sam Altman's blog
