@@ -1,16 +1,4 @@
 importOnly
 head.scroll
 
-container 720px
- addClass article-header
-a ← All writing
- href index.html#archive-heading
- addClass back
-printDate
-printTitle
-clearStack
-
-container 720px
- id main
- role main
- addClass prose
+BU_POST_HEADER

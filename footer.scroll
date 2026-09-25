@@ -1,9 +1,2 @@
 importOnly
-tags Posts
-buildHtml
-buildTxt
-
-clearStack
-keyboardNav
-printFormatLinks
-homeFooter.scroll
+BU_POST_FOOTER

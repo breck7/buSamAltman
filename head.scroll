@@ -3,31 +3,10 @@ baseUrl https://busam.breck.lol/
 openGraphImage busam-poster.jpg
 blog.parsers
 editBaseUrl https://github.com/breck7/busam/blob/main/
-inlineMarkups
- *
- _
- `
-metaTags
-favicon favicon.svg
-style.css
+bu.scroll
+replace BU_SITE_NAME busam
+replace BU_SITE_DESCRIPTION boo sam altman. made by @breckyunits
+replace BU_ORIGINAL_LABEL Original blog ↗
+replace BU_POST_DATE printDate
 
-a Skip to content
- href #main
- addClass skip-link
-
-header
- addClass site-header
- div
-  addClass site-identity
-  busam
-   index.html
-   addClass wordmark
-  boo sam altman. made by @breckyunits
-   https://twitter.com/breckyunits @breckyunits
-   addClass site-description
- nav
-  aria-label Main navigation
-  Search
-   search.html
-  Original blog ↗
-   originalLink
+BU_HEAD

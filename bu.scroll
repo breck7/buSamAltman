@@ -1,0 +1,292 @@
+importOnly
+
+blogLinkifyParser
+ extends linkifyParser
+ cue linkify
+ boolean isMarkup false
+
+blogAriaAttributeParser
+ extends abstractAftertextAttributeParser
+ pattern ^aria\-
+ catchAllAtomType htmlAnyAtom
+
+blogDatetimeParser
+ extends abstractAftertextAttributeParser
+ cue datetime
+ catchAllAtomType htmlAnyAtom
+
+blogLoadingParser
+ extends abstractAftertextAttributeParser
+ cue loading
+ catchAllAtomType htmlAnyAtom
+
+superscriptParser
+ extends abstractMarkupParser
+ cue superscript
+ string tag sup
+
+subscriptParser
+ extends abstractMarkupParser
+ cue subscript
+ string tag sub
+
+blogTimeParser
+ extends abstractHtmlElementParser
+ cue time
+
+blogFigureParser
+ extends abstractHtmlElementParser
+ cue figure
+
+blogKeyboardNavParser
+ extends keyboardNavParser
+ cue keyboardNav
+ javascript
+  getAtom(index) {
+   const explicit = super.getAtom(index)
+   if (explicit !== undefined || (index !== 1 && index !== 2)) return explicit
+   const posts = this.root.allScrollFiles.map(file => file.scrollProgram)
+    .filter(post => post.buildsHtml && !post.importOnly && post.hasKeyboardNav && post.primaryTag === this.root.primaryTag)
+    .sort((a, b) => a.timestamp - b.timestamp || a.permalink.localeCompare(b.permalink))
+   const position = posts.findIndex(post => post.permalink === this.root.permalink)
+   if (position < 0 || !posts.length) return this.root.permalink
+   return posts[(position + (index === 1 ? -1 : 1) + posts.length) % posts.length].permalink
+  }
+
+blogFormatLinksParser
+ extends printFormatLinksParser
+ cue printFormatLinks
+ javascript
+  buildTxt() { return "" }
+
+replace BU_HEAD
+ inlineMarkups
+  *
+  _
+  `
+ metaTags
+ favicon favicon.svg
+ style.css
+ 
+ a Skip to content
+  href #main
+  addClass skip-link
+ 
+ header
+  addClass site-header
+  div
+   addClass site-identity
+   BU_SITE_NAME
+    index.html
+    addClass wordmark
+   BU_SITE_DESCRIPTION
+    https://twitter.com/breckyunits @breckyunits
+    addClass site-description
+   git clone https://github.com/breck7/BU_SITE_NAME
+    linkify false
+    addClass clone-command
+  nav
+   aria-label Main navigation
+   Search
+    search.html
+   BU_ORIGINAL_LABEL
+    originalLink
+
+replace BU_HOME_FOOTER
+ viewSource
+ footer
+  addClass site-footer
+  span BU_SITE_NAME
+  BU_SITE_DESCRIPTION
+   https://twitter.com/breckyunits @breckyunits
+  BU_ORIGINAL_LABEL
+   originalLink
+  git clone https://github.com/breck7/BU_SITE_NAME
+   linkify false
+   addClass clone-command
+
+replace BU_POST_FOOTER
+ tags Posts
+ buildHtml
+ buildTxt
+ 
+ clearStack
+ keyboardNav
+ printFormatLinks
+ homeFooter.scroll
+
+replace BU_POST_HEADER
+ container 720px
+  addClass article-header
+ a ← All writing
+  href index.html#archive-heading
+  addClass back
+ BU_POST_DATE
+ printTitle
+ clearStack
+ 
+ container 720px
+  id main
+  role main
+  addClass prose
+
+replace BU_ARCHIVE
+ label
+  addClass search
+  input
+   id search
+   type search
+   aria-label Filter titles
+   placeholder Filter titles…
+   autocomplete off
+  kbd /
+ 
+ div
+  id search-status
+  addClass search-status
+  aria-live polite
+ 
+ div
+  addClass archive-columns
+  button Date ↓
+   type button
+   data-sort date
+   aria-label Sort by date, oldest first
+  span Title
+  button Duration ↕
+   type button
+   data-sort duration
+   aria-label Sort by duration, shortest first
+  span
+   aria-hidden true
+ 
+ postsMeta Posts
+  orderBy -year -date
+   printArchive
+ 
+ div
+  id empty
+  aria-live polite
+
+replace BU_STYLES
+ css
+  @charset "UTF-8";
+  :root{--paper:#f7f5ef;--ink:#242c27;--muted:#73796f;--rule:#dcded3;--green:#375746;--soft:#eeeee4;--serif:Georgia,'Times New Roman',serif;--sans:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+  *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:32px}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}a{color:inherit;text-decoration:none}button,input,select{font:inherit}a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--green);outline-offset:5px}::selection{background:#dbe4ca} [hidden]{display:none!important}.site-header,main,.site-footer{max-width:1120px;margin:auto;width:calc(100% - 112px)}.site-header{height:113px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--rule)}.wordmark{font-family:var(--serif);font-size:29px;letter-spacing:-1.1px}.brand-dot{color:var(--green)}.site-header nav{display:flex;gap:35px;font-size:13px}.site-header nav a:hover,.text-link:hover{color:var(--green);text-decoration:underline;text-underline-offset:5px}.site-header nav a:last-child{color:var(--muted)}.eyebrow,.archive-intro{display:flex;gap:22px;align-items:center;font-size:10px;line-height:1.5;letter-spacing:1.7px;font-weight:500}.hero{padding:67px 0 57px}.hero>.eyebrow{justify-content:space-between;color:var(--muted)}.hero h1{font-family:var(--serif);font-size:clamp(64px,7.5vw,99px);line-height:1.07;font-weight:400;letter-spacing:-4.8px;margin:35px 0 27px}.hero h1 em{font-weight:400;color:var(--green)}.hero-bottom{display:flex;justify-content:space-between;align-items:flex-end}.hero-bottom p{font-size:16px;line-height:1.75;color:var(--muted);margin:0}.text-link{font-size:13px;padding-bottom:7px}.text-link span{padding-left:26px}.selected{border-top:1px solid var(--rule);padding:25px 0 59px}.section-label{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px}.section-label h2{font-size:13px;font-weight:500;margin:0}.section-label>span{font-size:9px;letter-spacing:1.6px;color:var(--muted)}.selected-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.feature{display:flex;flex-direction:column;border:1px solid var(--rule);padding:26px 27px 23px;min-height:244px;transition:background .2s,border-color .2s}.feature:hover{background:var(--soft);border-color:#b6c0af}.feature-number{font:italic 19px var(--serif);color:#909886}.feature h3{font:400 27px/1.12 var(--serif);letter-spacing:-.6px;margin:24px 0 12px}.feature p{font-size:12px;line-height:1.65;color:var(--muted);margin:0 0 25px;max-width:250px}.feature-bottom{margin-top:auto;display:flex;justify-content:space-between;font-size:9px;letter-spacing:1px;color:var(--muted)}.feature-bottom>span{font-size:17px;line-height:10px;color:var(--green)}.archive{border-top:1px solid var(--rule);padding:43px 0 60px}.archive-heading{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:25px;gap:20px}.archive-heading .eyebrow{color:var(--muted);font-size:9px}.archive-heading h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px;margin:10px 0 0}.count{vertical-align:top;margin:6px 0 0 13px;display:inline-block;font:11px var(--sans);letter-spacing:0;color:var(--muted)}.archive-controls{display:flex;gap:10px;margin-bottom:4px}.search{height:39px;display:flex;align-items:center;border:1px solid var(--rule);gap:9px;padding:0 12px;width:235px}.search>span{font-size:24px;color:var(--muted)}.search input{width:100%;min-width:0;font-size:12px;border:0;background:transparent;color:var(--ink);outline-offset:1px}.search kbd{font-size:10px;color:var(--muted);border:1px solid var(--rule);padding:1px 4px}.search-status{font-size:12px;color:var(--muted);min-height:0}.search-status:empty{display:none}.year-group{display:grid;grid-template-columns:115px 1fr;border-top:1px solid var(--rule);padding:10px 0 22px}.year-group h3{font:italic 24px var(--serif);color:var(--muted);margin:21px 0}.post-row{display:grid;grid-template-columns:75px 1fr 52px 18px;gap:20px;align-items:baseline;padding:22px 0;border-bottom:1px solid #e5e6dd}.post-row:last-child{border-bottom:0}.post-row time{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px}.post-title{font:400 21px/1.35 var(--serif);letter-spacing:-.2px}.post-row:hover .post-title{color:var(--green);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}.read-time{font-size:10px;color:var(--muted);text-align:right;white-space:nowrap}.row-arrow{color:#87947e;font-size:15px}.site-footer{border-top:1px solid var(--rule);padding:27px 0 38px;display:flex;justify-content:space-between;font-size:10px;color:var(--muted);gap:20px}.site-footer>span:first-child{font:18px var(--serif);color:var(--ink)}.site-footer a:hover{text-decoration:underline}.reading{max-width:720px}.article-header{padding:47px 0 35px}.back{font-size:12px;color:var(--muted);display:inline-block;margin-bottom:55px}.article-header .eyebrow{font-size:9px;letter-spacing:1.1px;color:var(--muted)}.article-header h1{font:400 clamp(40px,5.2vw,66px)/1.1 var(--serif);letter-spacing:-2px;margin:21px 0 8px}.prose{font:19px/1.8 var(--serif);overflow-wrap:break-word}.prose p{margin:0 0 1.4em}.prose a{color:var(--green);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}.prose strong{font-weight:bold}.prose h2,.prose h3{font-weight:400;line-height:1.3;margin:1.6em 0 .7em}.prose ol,.prose ul{padding-left:28px;margin:1.5em 0}.prose li{margin-bottom:.8em}.prose figure{margin:32px 0}.prose img{max-width:100%;height:auto;display:block;margin:auto}.prose blockquote{margin:30px 0;padding-left:25px;border-left:2px solid var(--green);font-style:italic}.prose hr{border:0;border-top:1px solid var(--rule);margin:35px 0}.article-source{border-top:1px solid var(--rule);margin-top:45px;padding:22px 0;display:flex;justify-content:space-between;font-size:11px;color:var(--muted)}.post-navigation{display:grid;grid-template-columns:1fr 1fr;gap:35px;padding:35px 0 70px}.post-navigation a{font:22px/1.35 var(--serif)}.post-navigation a:last-child{text-align:right}.post-navigation span{display:block;font:9px var(--sans);text-transform:uppercase;letter-spacing:1.4px;color:var(--muted);margin-bottom:12px}.post-navigation a:hover{color:var(--green)}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.skip-link{position:fixed;top:-60px;left:15px;z-index:10;background:var(--ink);color:var(--paper);padding:12px}.skip-link:focus{top:15px}#empty{padding:35px 0;color:var(--muted)}
+  @media(min-width:1500px){.hero{padding-top:80px}}
+  @media(max-width:760px){.site-header,main,.site-footer{width:calc(100% - 44px)}.site-header{height:85px}.wordmark{font-size:26px}.site-header nav{gap:20px;font-size:11px}.hero{padding:43px 0}.hero>.eyebrow{font-size:8px;letter-spacing:1px}.hero h1{font-size:62px;letter-spacing:-3px;margin:28px 0}.hero-bottom p{font-size:14px}.hero-bottom{gap:18px}.text-link{font-size:11px}.text-link span{padding-left:5px}.selected-grid{grid-template-columns:1fr}.feature{min-height:0;padding:22px;position:relative}.feature h3{margin:0 0 10px;padding-right:30px;font-size:26px}.feature-number{position:absolute;right:22px;top:22px;font-size:16px}.feature p{max-width:none;margin:0 0 22px}.selected{padding-bottom:37px}.archive{padding-top:31px}.archive-heading{align-items:stretch;flex-direction:column;gap:21px}.archive-controls{width:100%}.search{flex:1;width:auto}.year-group{grid-template-columns:1fr;padding-top:12px}.year-group h3{margin:14px 0 5px;font-size:22px}.post-row{grid-template-columns:56px 1fr 16px;gap:14px;padding:19px 0}.post-title{font-size:20px}.read-time{display:none}.site-footer{flex-wrap:wrap;line-height:1.7}.site-footer>span:first-child{flex-basis:100%}.reading{max-width:650px}.article-header{padding-top:30px}.back{margin-bottom:38px}.article-header h1{letter-spacing:-1.5px}.prose{font-size:18px;line-height:1.75}.post-navigation{gap:20px}.post-navigation a{font-size:19px}}
+  @media(max-width:380px){.hero h1{font-size:53px}.hero-bottom{align-items:flex-start;flex-direction:column}.site-header nav{gap:12px}}
+  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+  @media print{body{background:#fff;color:#000}.site-header,.site-footer,.back,.article-source,.post-navigation{display:none}main.reading{width:100%;max-width:100%}.article-header{padding:0}.prose{font-size:12pt}.prose a{color:inherit}.prose img{max-height:700px}.prose p{orphans:3;widows:3}}
+  /* Native Scroll paragraphs keep the shared layout without HTML wrappers. */
+  .site-header p,.site-footer p,.article-source p,.hero-bottom .text-link{margin:0}
+  .hero h1 em{display:block}.hero-bottom>p:first-child{max-width:300px}
+  .site-header nav{align-items:center}.site-header .wordmark a{color:inherit}
+  .back{margin:0 0 55px}.back a{display:inline-block}
+  .post-navigation .navigation-title{font:inherit;text-transform:none;letter-spacing:inherit;color:inherit;margin:0}
+  #empty:empty{display:none}.prose .unavailable-image{font:13px/1.7 var(--sans);color:var(--muted);padding:20px;border:1px solid var(--rule)}
+  @media(max-width:760px){.hero-bottom>p:first-child{max-width:255px}.back{margin-bottom:38px}}
+  
+  .site-header{height:auto;min-height:113px;padding:26px 0;gap:22px}.site-identity{min-width:0}.site-description{font:11px/1.6 var(--sans);color:var(--muted);padding-top:7px}.site-header nav{flex-shrink:0}.archive{border-top:0}.archive-intro{justify-content:space-between;color:var(--muted);margin-bottom:32px}
+  @media(max-width:760px){.site-header{padding:22px 0;align-items:flex-start}.site-description{max-width:245px;font-size:10px}.site-header nav{padding-top:8px}.archive-intro{font-size:8px;letter-spacing:1px;gap:15px;align-items:baseline}.archive-intro span:last-child{white-space:nowrap}}
+  
+  .search-page{padding:42px 0 60px;width:calc(100% - 112px)!important}.search-page h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px;margin:0 0 15px}.search-page>p{color:var(--muted);font-size:13px}.search-page .scrollTable{table-layout:fixed;font:13px/1.6 var(--sans);width:100%}.search-page td,.search-page th{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;text-align:left}.search-page th:first-child{width:28%}.search-page th:nth-child(2){width:100px}.search-page .expandedTable td{white-space:normal;vertical-align:top}.search-page .dt-container{margin-top:26px}.search-page a{color:var(--green);text-decoration:underline;text-underline-offset:3px}
+  @media(max-width:760px){.search-page{width:calc(100% - 44px)!important}.search-page .scrollTable{font-size:11px}.search-page th:first-child{width:35%}.search-page th:nth-child(2){width:75px}}
+  
+  .article-header,.prose{width:calc(100% - 44px)!important}.prose{padding-bottom:45px}.article-header .printDateParser{font:11px var(--sans);color:var(--muted)}
+  
+  .archive.scrollContainerParser{width:calc(100% - 112px)!important}.archive>h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px}.archive>.search{margin:0 0 25px auto}@media(max-width:760px){.archive.scrollContainerParser{width:calc(100% - 44px)!important}}
+  
+  .abstractTextLinkParser{text-align:center;font-size:12px;margin:20px auto;color:var(--muted)}.abstractTextLinkParser a{text-decoration:underline}
+  
+  .site-header .site-description{margin-top:7px;font:12px/1.5 var(--sans);color:var(--muted)}.site-description a{text-decoration:underline;text-underline-offset:2px}
+  
+  /* Shared sortable archive headings; duration order is global across years. */
+  .archive-columns{display:grid;grid-template-columns:75px 1fr 72px 18px;gap:20px;align-items:center;margin:0 0 0 115px;padding:12px 0;font:11px var(--sans);color:var(--muted)}
+  .archive-columns button{border:0;padding:6px 0;background:transparent;color:inherit;text-align:left;cursor:pointer;white-space:nowrap}
+  .archive-columns button:last-of-type{text-align:right}.archive-columns button:hover{color:var(--green)}.archive-columns button:focus-visible{outline:2px solid var(--green);outline-offset:3px}
+  .post-row{grid-template-columns:75px 1fr 72px 18px}.duration-order .archive-columns{margin-left:0;grid-template-columns:115px 1fr 72px 18px}.sorted-posts .post-row{grid-template-columns:115px 1fr 72px 18px}.search-status:not(:empty){padding-bottom:10px}
+  @media(max-width:760px){.archive-columns,.duration-order .archive-columns{margin-left:0;grid-template-columns:56px 1fr 72px;gap:14px}.archive-columns>span:last-child{display:none}.post-row{grid-template-columns:56px 1fr 72px}.post-row .read-time{display:block}.post-row .row-arrow{display:none}.sorted-posts .post-row,.duration-order .archive-columns{grid-template-columns:72px 1fr 72px;gap:14px}.sorted-posts time{line-height:1.5}}
+  .clone-command{font:11px/1.6 ui-monospace,SFMono-Regular,Consolas,monospace;color:var(--muted);overflow-wrap:anywhere;user-select:all}.clone-command code{font:inherit;background:none;padding:0}.site-header .clone-command{margin-top:10px}.site-footer{flex-wrap:wrap}.site-footer .clone-command{flex-basis:100%;min-width:0}
+
+replace BU_SCRIPT
+ script
+  const search = document.querySelector('#search');
+  if (search) {
+    const rows = [...document.querySelectorAll('.post-row')];
+    const groups = [...document.querySelectorAll('.year-group')];
+    const status = document.querySelector('#search-status');
+    const buttons = [...document.querySelectorAll('[data-sort]')];
+    const archive = document.querySelector('.archive');
+    const sortedList = document.createElement('div');
+    sortedList.className = 'sorted-posts';
+    sortedList.hidden = true;
+    groups[0]?.before(sortedList);
+    const metadata = new Map(rows.map((row, index) => {
+      const time = row.querySelector('time');
+      const year = row.closest('.year-group').dataset.year;
+      return [row, { parent: row.parentElement, index, date: time.dateTime,
+        undated: year === 'Undated', duration: parseFloat(row.querySelector('.read-time').textContent),
+        shortDate: time.textContent, fullDate: year === 'Undated' ? 'Undated' : `${time.textContent} ${year}`.trim() }];
+    }));
+    let sortKey = 'date';
+    let direction = -1;
+    let sortChanged = false;
+    const normalize = text => text.toLocaleLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
+    const texts = new Map(rows.map(row => [row, normalize(row.querySelector('.post-title').textContent)]));
+    function filter() {
+      const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
+      let count = 0;
+      rows.forEach(row => {
+        row.hidden = !terms.every(term => texts.get(row).includes(term));
+        if (!row.hidden) count++;
+      });
+      groups.forEach(group => { group.hidden = sortKey !== 'date' || !group.querySelector('.post-row:not([hidden])'); });
+      document.querySelector('#empty').textContent = count === 0 ? 'No essays found. Try another search.' : '';
+      const order = sortKey === 'date' ? (direction < 0 ? 'newest first' : 'oldest first') : (direction > 0 ? 'shortest first' : 'longest first');
+      status.textContent = search.value || sortChanged ? `${count} ${count === 1 ? 'essay' : 'essays'} · ${order}` : '';
+    }
+    function sort(key) {
+      direction = key === sortKey ? -direction : key === 'date' ? -1 : 1;
+      sortKey = key;
+      sortChanged = true;
+      const ordered = [...rows].sort((a, b) => {
+        const x = metadata.get(a), y = metadata.get(b);
+        if (key === 'date' && x.undated !== y.undated) return x.undated ? 1 : -1;
+        const result = key === 'date' ? x.date.localeCompare(y.date) : x.duration - y.duration;
+        return result * direction || x.index - y.index;
+      });
+      archive.classList.toggle('duration-order', key === 'duration');
+      sortedList.hidden = key !== 'duration';
+      ordered.forEach(row => {
+        const meta = metadata.get(row);
+        (key === 'duration' ? sortedList : meta.parent).append(row);
+        row.querySelector('time').textContent = key === 'duration' ? meta.fullDate : meta.shortDate;
+      });
+      if (key === 'date') {
+        [...groups].sort((a, b) => {
+          if (a.dataset.year === 'Undated') return 1;
+          if (b.dataset.year === 'Undated') return -1;
+          return (Number(a.dataset.year) - Number(b.dataset.year)) * direction;
+        }).forEach(group => sortedList.before(group));
+      }
+      buttons.forEach(button => {
+        const active = button.dataset.sort === key;
+        const label = button.dataset.sort === 'date' ? 'Date' : 'Duration';
+        button.textContent = `${label} ${active ? (direction > 0 ? '↑' : '↓') : '↕'}`;
+        button.setAttribute('aria-label', `Sort by ${label.toLowerCase()}, ${button.dataset.sort === 'date' ? (active && direction < 0 ? 'oldest' : 'newest') : (active && direction > 0 ? 'longest' : 'shortest')} first`);
+      });
+      filter();
+    }
+    buttons.forEach(button => button.addEventListener('click', () => sort(button.dataset.sort)));
+    search.addEventListener('input', filter);
+    document.addEventListener('keydown', event => {
+      if (event.key === '/' && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)) {
+        event.preventDefault(); search.focus();
+      }
+      if (event.key === 'Escape' && document.activeElement === search) {
+        search.value = ''; filter(); search.blur();
+      }
+    });
+  }
+

@@ -13,43 +13,7 @@ container 1120px
 # All posts: 2013 - 2026
  id archive-heading
 
-label
- addClass search
- input
-  id search
-  type search
-  aria-label Filter titles
-  placeholder Filter titles…
-  autocomplete off
- kbd /
-
-div
- id search-status
- addClass search-status
- aria-live polite
-
-div
- addClass archive-columns
- button Date ↓
-  type button
-  data-sort date
-  aria-label Sort by date, oldest first
- span Title
- button Duration ↕
-  type button
-  data-sort duration
-  aria-label Sort by duration, shortest first
- span
-  aria-hidden true
-
-postsMeta Posts
- orderBy -year -date
-  printArchive
-
-div
- id empty
- aria-live polite
-
+BU_ARCHIVE
 clearStack
 homeFooter.scroll
 site.js
