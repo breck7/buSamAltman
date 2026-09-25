@@ -21,7 +21,7 @@ Nuclear energy can hit the bid, and possibly so can renewables. But pricing is t
 In addition to generation, we’re also interested in energy storage and transmission. 10x better batteries would enable great new things, as would the ability to easily move energy around.
 
 AI. Relative to the potential impact, it doesn’t seem like enough smart people are working on this.
- https://busamaltman.breck.lol/ai.html potential impact
+ https://busam.breck.lol/ai.html potential impact
 
 A lot of smart people talk about AI with a combination of awe and fear, both for good reasons. But it feels like it could be one of the dividing lines in the history of technology, where before and after look totally different.
 
