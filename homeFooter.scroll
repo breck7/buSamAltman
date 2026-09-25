@@ -1,9 +1,2 @@
 importOnly
-viewSource
-footer
- addClass site-footer
- span busam
- boo sam altman. made by @breckyunits
-  https://twitter.com/breckyunits @breckyunits
- Original blog ↗
-  originalLink
+BU_HOME_FOOTER

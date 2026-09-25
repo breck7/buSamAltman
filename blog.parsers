@@ -1,62 +1,5 @@
-// Scroll 180's linkify directive inherits markup matching. It is a setting,
-// so exclude it from text replacements and markup validation.
-blogLinkifyParser
- extends linkifyParser
- cue linkify
- boolean isMarkup false
+// Site-specific behavior; shared parsers live in bu.scroll.
 
-// Semantic attributes missing from this version of the built-in element parsers.
-blogAriaAttributeParser
- extends abstractAftertextAttributeParser
- pattern ^aria\-
- catchAllAtomType htmlAnyAtom
-
-blogDatetimeParser
- extends abstractAftertextAttributeParser
- cue datetime
- catchAllAtomType htmlAnyAtom
-
-blogLoadingParser
- extends abstractAftertextAttributeParser
- cue loading
- catchAllAtomType htmlAnyAtom
-
-superscriptParser
- extends abstractMarkupParser
- cue superscript
- string tag sup
-
-subscriptParser
- extends abstractMarkupParser
- cue subscript
- string tag sub
-
-blogTimeParser
- extends abstractHtmlElementParser
- cue time
-
-blogFigureParser
- extends abstractHtmlElementParser
- cue figure
-
-// Scroll 180 indexes posts by date but looks up those indexes in filename order.
-// Supply correctly ordered neighbors to its existing keyboardNav handler.
-blogKeyboardNavParser
- extends keyboardNavParser
- cue keyboardNav
- javascript
-  getAtom(index) {
-   const explicit = super.getAtom(index)
-   if (explicit !== undefined || (index !== 1 && index !== 2)) return explicit
-   const posts = this.root.allScrollFiles.map(file => file.scrollProgram)
-    .filter(post => post.buildsHtml && !post.importOnly && post.hasKeyboardNav && post.primaryTag === this.root.primaryTag)
-    .sort((a, b) => a.timestamp - b.timestamp || a.permalink.localeCompare(b.permalink))
-   const position = posts.findIndex(post => post.permalink === this.root.permalink)
-   if (position < 0 || !posts.length) return this.root.permalink
-   return posts[(position + (index === 1 ? -1 : 1) + posts.length) % posts.length].permalink
-  }
-
-// Presentation for Scroll's postsMeta table; discovery and ordering stay native.
 printArchiveParser
  extends abstractTableVisualizationParser
  cue printArchive
@@ -97,16 +40,6 @@ viewSourceParser
  javascript
   buildTxt() { return "" }
 
-// Format navigation belongs to the HTML interface, not the essay export.
-blogFormatLinksParser
- extends printFormatLinksParser
- cue printFormatLinks
- javascript
-  buildTxt() { return "" }
-
-// The paragraph already contains the link's visible text. Keep aftertext
-// destinations out of TXT and native posts/search exports, especially local
-// backup URLs and footnote targets. HTML link generation stays inherited.
 blogTextLinkParser
  extends scrollLinkParser
  cue link
